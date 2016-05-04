@@ -1,0 +1,7 @@
+Final result for Finals2 
+Team                     W   D   L   GF  GA  GD  Pts
+Russia                   1   0   0   3   0   3   3   
+Switzerland              1   0   0   4   2   2   3   
+England                  0   0   1   2   4   -2  0   
+Algeria                  0   0   1   0   3   -3  0   
+

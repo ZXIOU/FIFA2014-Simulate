@@ -1,0 +1,3332 @@
+	     	  	   欢迎使用FIFA2014实时直播
+
+
+   			            /-----. 
+   			           /-------. 
+   			          |---------| 
+   			          ||||  2014 
+   			           |||    / 
+   			             ||||/ 
+   			             |||| 
+   			            /||||| 
+   			           /||||||| 
+   			          /||||||||| 
+
+Below are the 32 teams participate in the competition:
+AFC (4)
+·Australia (62)
+·Iran (43)
+·Japan (46)
+·South Korea (57)
+
+CAF (4)
+·Algeria (22)
+·Cameroon (56)
+·Ghana (37)
+·Ivory Coast (23)
+·Nigeria (44）
+
+OFC (0)
+·None qualified
+
+CONCACAF (4)
+·Costa Rica (28)
+·Honduras (33)
+·Mexico (20)
+·United States (13)
+
+CONMEBOL (6)
+·Argentina (5)
+·Brazil (3) (hosts)
+·Chile (14)
+·Colombia (8)
+·Ecuador (26)
+·Uruguay (7)
+
+UEFA (13)
+·Belgium (11)
+·Bosnia-Herzegovina (21)
+·Croatia (18)
+·England (10)
+·France (17)
+·Germany (2)
+·Greece (12)
+·Italy (9)
+·Netherlands (15)
+·Portugal (4)
+·Russia (19)
+·Spain (1)
+·Switzerland (6)
+
+Matches by squads
+GroupA
+·Brazil(hosts) vs Cameroon,Arena Pernambuco,June 12
+·South,Korea vs England,Arena Castelao,June 12
+·Brazil(hosts) vs South,Korea,Arena da Baixada,June 16
+·Cameroon vs England,Arena de Sao Paulo,June 16
+·Brazil(hosts) vs England,Arena Fonte Nova,June 20
+·Cameroon vs South,Korea,Arena das Dunas,June 20
+GroupB
+·Argentina vs Croatia,Mineirao,June 12
+·Mexico vs Holland,Estádio Beira-Rio,June 12
+·Argentina vs Mexico,Arena das Dunas,June 16
+·Croatia vs Holland,Mineirao,June 16
+·Argentina vs Holland,Arena de Sao Paulo,June 20
+·Croatia vs Mexico,Maracan,June 20
+GroupC
+·Columbia vs Algeria,Arena Castelao,June 13
+·America vs Bosnia,and,Herzegovina,Arena de Sao Paulo,June 13
+·Columbia vs America,Arena Castelao,June 17
+·Algeria vs Bosnia,and,Herzegovina,Maracan,June 17
+·Columbia vs Bosnia,and,Herzegovina,Arena Pantanal,June 21
+·Algeria vs America,Arena das Dunas,June 21
+GroupD
+·Belgium vs Ecuador,Estádio Beira-Rio,June 13
+·Iran vs Portugal,Estádio Beira-Rio,June 13
+·Belgium vs Iran,Arena das Dunas,June 17
+·Ecuador vs Portugal,Arena da Amazonia,June 17
+·Belgium vs Portugal,Arena Pernambuco,June 21
+·Ecuador vs Iran,Arena Castelao,June 21
+GroupE
+·Uruguay vs Nigeria,Estádio Beira-Rio,June 14
+·Honduras vs Italy,Arena Pantanal,June 14
+·Uruguay vs Honduras,Estádio Nacional de Brasilia,June 18
+·Nigeria vs Italy,Estádio Nacional de Brasilia,June 18
+·Uruguay vs Italy,Estádio Beira-Rio,June 22
+·Nigeria vs Honduras,Arena Fonte Nova,June 22
+GroupF
+·Spain vs Chile,Arena da Baixada,June 14
+·Australia vs Greece,Arena Fonte Nova,June 14
+·Spain vs Australia,Estádio Beira-Rio,June 18
+·Chile vs Greece,Arena Castelao,June 18
+·Spain vs Greece,Estádio Beira-Rio,June 22
+·Chile vs Australia,Arena Fonte Nova,June 22
+GroupG
+·Germany vs Ivory,Coast,Arena das Dunas,June 15
+·Japan vs France,Arena Castelao,June 15
+·Germany vs Japan,Arena Castelao,June 19
+·Ivory,Coast vs France,Arena Castelao,June 19
+·Germany vs France,Estádio Beira-Rio,June 23
+·Ivory,Coast vs Japan,Mineirao,June 23
+GroupH
+·Switzerland vs Garner,Arena Pantanal,June 15
+·Costa,Rica vs Russia,Arena das Dunas,June 15
+·Switzerland vs Costa,Rica,Estádio Nacional de Brasilia,June 19
+·Garner vs Russia,Estádio Beira-Rio,June 19
+·Switzerland vs Russia,Arena de Sao Paulo,June 23
+·Garner vs Costa,Rica,Arena da Amazonia,June 23
+
+Matches by date
+June 12
+·Brazil(hosts) vs Cameroon,Arena Pernambuco
+·South,Korea vs England,Arena Castelao
+·Argentina vs Croatia,Mineirao
+·Mexico vs Holland,Estádio Beira-Rio
+June 13
+·Columbia vs Algeria,Arena Castelao
+·America vs Bosnia,and,Herzegovina,Arena de Sao Paulo
+·Belgium vs Ecuador,Estádio Beira-Rio
+·Iran vs Portugal,Estádio Beira-Rio
+June 14
+·Uruguay vs Nigeria,Estádio Beira-Rio
+·Honduras vs Italy,Arena Pantanal
+·Spain vs Chile,Arena da Baixada
+·Australia vs Greece,Arena Fonte Nova
+June 15
+·Germany vs Ivory,Coast,Arena das Dunas
+·Japan vs France,Arena Castelao
+·Switzerland vs Garner,Arena Pantanal
+·Costa,Rica vs Russia,Arena das Dunas
+June 16
+·Brazil(hosts) vs South,Korea,Arena da Baixada
+·Cameroon vs England,Arena de Sao Paulo
+·Argentina vs Mexico,Arena das Dunas
+·Croatia vs Holland,Mineirao
+June 17
+·Columbia vs America,Arena Castelao
+·Algeria vs Bosnia,and,Herzegovina,Maracan
+·Belgium vs Iran,Arena das Dunas
+·Ecuador vs Portugal,Arena da Amazonia
+June 18
+·Uruguay vs Honduras,Estádio Nacional de Brasilia
+·Nigeria vs Italy,Estádio Nacional de Brasilia
+·Spain vs Australia,Estádio Beira-Rio
+·Chile vs Greece,Arena Castelao
+June 19
+·Germany vs Japan,Arena Castelao
+·Ivory,Coast vs France,Arena Castelao
+·Switzerland vs Costa,Rica,Estádio Nacional de Brasilia
+·Garner vs Russia,Estádio Beira-Rio
+June 20
+·Brazil(hosts) vs England,Arena Fonte Nova
+·Cameroon vs South,Korea,Arena das Dunas
+·Argentina vs Holland,Arena de Sao Paulo
+·Croatia vs Mexico,Maracan
+June 21
+·Columbia vs Bosnia,and,Herzegovina,Arena Pantanal
+·Algeria vs America,Arena das Dunas
+·Belgium vs Portugal,Arena Pernambuco
+·Ecuador vs Iran,Arena Castelao
+June 22
+·Uruguay vs Italy,Estádio Beira-Rio
+·Nigeria vs Honduras,Arena Fonte Nova
+·Spain vs Greece,Estádio Beira-Rio
+·Chile vs Australia,Arena Fonte Nova
+June 23
+·Germany vs France,Estádio Beira-Rio
+·Ivory,Coast vs Japan,Mineirao
+·Switzerland vs Russia,Arena de Sao Paulo
+·Garner vs Costa,Rica,Arena da Amazonia
+
+The match Live...
+
+June 12
+Game 1
+This game is playing in Arena Pernambuco
+Group stage:
+Brazil(hosts) vs Cameroon
+Brazil(hosts)
+#1       GK      Jefferson
+#2       DF      Dani,Alves
+#3       DF      Thiago,Silva,(c)
+#4       DF      David,Luiz
+#5       MF      Fernandinho
+#6       DF      Marcelo 
+#7       FW      Hulk    
+#8       MF      Paulinho
+#9       FW      Fred    
+#10      FW      Neymar  
+#11      MF      Oscar   
+#12      GK      Julio,Cesar
+#13      DF      Dante   
+#14      DF      Maxwell 
+#15      DF      Henrique
+#16      MF      Ramires 
+#17      MF      Luiz,Gustavo
+#18      MF      Hernanes
+#19      MF      Willian 
+#20      FW      Bernard 
+#21      FW      Jo      
+#22      GK      Victor  
+#23      DF      Maicon  
+Cameroon
+#1       GK      Lo?c,Feudjou
+#2       DF      Beno?t,Assou-Ekotto
+#3       DF      Nicolas,N'Koulou
+#4       DF      Cedric,Djeugoue
+#5       DF      Dany,Nounkeu
+#6       MF      Alex,Song
+#7       MF      Landry,N'Guemo
+#8       FW      Benjamin,Moukandjo
+#9       FW      Samuel,Eto'o,(c)
+#10      FW      Vincent,Aboubakar
+#11      MF      Jean,Makoun
+#12      DF      Henri,Bedimo
+#13      FW      Maxim,Choupo-Moting
+#14      DF      Aurelien,Chedjou
+#15      FW      Pierre,Webo
+#16      GK      Charles,Itandje
+#17      MF      Stephane,Mbia
+#18      MF      Eyong,Enoh
+#19      FW      Fabrice,Olinga
+#20      MF      Edgar,Salli
+#21      MF      Jo?l,Matip
+#22      DF      Allan,Nyom
+#23      GK      Sammy,N'Djock
+Playing...
+Cameroondid a goal, and it was #13Aurelien,Chedjou did the goal.
+Now it is 0:1
+Cameroondid a goal, and it was #22Sammy,N'Djock did the goal.
+Now it is 0:2
+Brazil(hosts)did a goal, and it was #18Willian did the goal.
+Now it is 1:2
+Cameroondid a goal, and it was #14Pierre,Webo did the goal.
+Now it is 1:3
+Brazil(hosts)did a goal, and it was #21Victor did the goal.
+Now it is 2:3
+Brazil(hosts)did a goal, and it was #12Dante did the goal.
+Now it is 3:3
+Brazil(hosts)did a goal, and it was #1Dani,Alves did the goal.
+Now it is 4:3
+Brazil(hosts) wins with 4:3
+
+Game 2
+This game is playing in Arena Castelao
+Group stage:
+South,Korea vs England
+South,Korea
+#1       GK      Jung,Sung-ryong
+#2       DF      Kim,Chang-soo
+#3       DF      Yun,Suk-young
+#4       DF      Kwak,Tae-hwi
+#5       DF      Kim,Young-gwon
+#6       DF      Hwang,Seok-ho
+#7       MF      Kim,Bo-kyung
+#8       MF      Ha,Dae-sung
+#9       FW      Son,Heung-min
+#10      FW      Park,Chu-young
+#11      FW      Lee,Keun-ho
+#12      DF      Lee,Yong
+#13      MF      Koo,Ja-cheol,(c)
+#14      MF      Han,Kook-young
+#15      MF      Park,Jong-woo
+#16      MF      Ki,Sung-yueng
+#17      MF      Lee,Chung-yong
+#18      FW      Kim,Shin-wook
+#19      FW      Ji,Dong-won
+#20      DF      Hong,Jeong-ho
+#21      GK      Kim,Seung-gyu
+#22      DF      Park,Joo-ho
+#23      GK      Lee,Bum-young
+England
+#1       GK      Joe,Hart
+#2       DF      Glen,Johnson
+#3       DF      Leighton,Baines
+#4       MF      Steven,Gerrard,(c)
+#5       DF      Gary,Cahill
+#6       DF      Phil,Jagielka
+#7       MF      Jack,Wilshere
+#8       MF      Frank,Lampard
+#9       FW      Daniel,Sturridge
+#10      FW      Wayne,Rooney
+#11      FW      Danny,Welbeck
+#12      DF      Chris,Smalling
+#13      GK      Ben,Foster
+#14      MF      Jordan,Henderson
+#15      MF      Alex,Oxlade-Chamberlain
+#16      DF      Phil,Jones
+#17      MF      James,Milner
+#18      FW      Rickie,Lambert
+#19      MF      Raheem,Sterling
+#20      MF      Adam,Lallana
+#21      MF      Ross,Barkley
+#22      GK      Fraser,Forster
+#23      DF      Luke,Shaw
+Playing...
+Englanddid a goal, and it was #14Alex,Oxlade-Chamberlain did the goal.
+Now it is 0:1
+Englanddid a goal, and it was #22Luke,Shaw did the goal.
+Now it is 0:2
+Englanddid a goal, and it was #6Jack,Wilshere did the goal.
+Now it is 0:3
+Englanddid a goal, and it was #3Steven,Gerrard,(c) did the goal.
+Now it is 0:4
+England wins with 4:0
+
+Game 3
+This game is playing in Mineirao
+Group stage:
+Argentina vs Croatia
+Argentina
+#1       GK      Sergio,Romero
+#2       DF      Ezequiel,Garay
+#3       DF      Hugo,Campagnaro
+#4       DF      Pablo,Zabaleta
+#5       MF      Fernando,Gago
+#6       MF      Lucas,Biglia
+#7       MF      Angel,Di,Maria
+#8       MF      Enzo,Perez
+#9       FW      Gonzalo,Higuain
+#10      FW      Lionel,Messi,(c)
+#11      MF      Maxi,Rodriguez
+#12      GK      Agustin,Orion
+#13      MF      Augusto,Fernandez
+#14      MF      Javier,Mascherano
+#15      DF      Martin,Demichelis
+#16      DF      Marcos,Rojo
+#17      DF      Federico,Fernandez
+#18      FW      Rodrigo,Palacio
+#19      MF      Ricardo,Alvarez
+#20      FW      Sergio,Aguero
+#21      GK      Mariano,Andujar
+#22      FW      Ezequiel,Lavezzi
+#23      DF      Jose,Maria,Basanta
+Croatia
+#1       GK      Stipe,Pletikosa
+#2       DF      ?ime,Vrsaljko
+#3       DF      Danijel,Pranji?
+#4       MF      Ivan,Peri?i?
+#5       DF      Vedran,?orluka
+#6       DF      Dejan,Lovren
+#7       MF      Ivan,Rakiti?
+#8       MF      Ognjen,Vukojevi?
+#9       FW      Nikica,Jelavi?
+#10      MF      Luka,Modri?
+#11      DF      Darijo,Srna,(c)
+#12      GK      Oliver,Zelenika
+#13      DF      Gordon,Schildenfeld
+#14      MF      Marcelo,Brozovi?
+#15      MF      Milan,Badelj
+#16      FW      Ante,Rebi?
+#17      FW      Mario,Mand?uki?
+#18      FW      Ivica,Oli?
+#19      MF      Sammir  
+#20      MF      Mateo,Kova?i?
+#21      DF      Domagoj,Vida
+#22      FW      Eduardo 
+#23      GK      Danijel,Suba?i?
+Playing...
+Argentinadid a goal, and it was #12Augusto,Fernandez did the goal.
+Now it is 1:0
+Croatiadid a goal, and it was #10Darijo,Srna,(c) did the goal.
+Now it is 1:1
+Croatiadid a goal, and it was #17Ivica,Oli? did the goal.
+Now it is 1:2
+Argentinadid a goal, and it was #12Augusto,Fernandez did the goal.
+Now it is 2:2
+Argentinadid a goal, and it was #19Sergio,Aguero did the goal.
+Now it is 3:2
+Argentinadid a goal, and it was #6Angel,Di,Maria did the goal.
+Now it is 4:2
+Argentina wins with 4:2
+
+Game 4
+This game is playing in Estádio Beira-Rio
+Group stage:
+Mexico vs Holland
+Mexico
+#1       GK      Jose,de,Jesus,Corona
+#2       DF      Francisco,Javier,Rodriguez
+#3       DF      Carlos,Salcido
+#4       DF      Rafael,Marquez,(c)
+#5       DF      Diego,Reyes
+#6       MF      Hector,Herrera
+#7       DF      Miguel,Layun
+#8       MF      Marco,Fabian
+#9       FW      Raul,Jimenez
+#10      FW      Giovani,dos,Santos
+#11      FW      Alan,Pulido
+#12      GK      Alfredo,Talavera
+#13      GK      Guillermo,Ochoa
+#14      FW      Javier,Hernandez
+#15      DF      Hector,Moreno
+#16      DF      Miguel,Angel,Ponce
+#17      MF      Isaac,Brizuela
+#18      DF      Andres,Guardado
+#19      FW      Oribe,Peralta
+#20      MF      Javier,Aquino
+#21      MF      Carlos,Pena
+#22      DF      Paul,Aguilar
+#23      MF      Jose,Juan,Vazquez
+Holland
+#1       GK      Jasper,Cillessen
+#2       DF      Ron,Vlaar
+#3       DF      Stefan,de,Vrij
+#4       DF      Bruno,Martins,Indi
+#5       DF      Daley,Blind
+#6       MF      Nigel,de,Jong
+#7       DF      Daryl,Janmaat
+#8       MF      Jonathan,de,Guzman
+#9       FW      Robin,van,Persie,(c)
+#10      MF      Wesley,Sneijder
+#11      FW      Arjen,Robben
+#12      DF      Paul,Verhaegh
+#13      DF      Jo?l,Veltman
+#14      DF      Terence,Kongolo
+#15      FW      Dirk,Kuyt
+#16      MF      Jordy,Clasie
+#17      FW      Jeremain,Lens
+#18      MF      Leroy,Fer
+#19      FW      Klaas-Jan,Huntelaar
+#20      MF      Georginio,Wijnaldum
+#21      FW      Memphis,Depay
+#22      GK      Michel,Vorm
+#23      GK      Tim,Krul
+Playing...
+Hollanddid a goal, and it was #8Robin,van,Persie,(c) did the goal.
+Now it is 0:1
+Hollanddid a goal, and it was #10Arjen,Robben did the goal.
+Now it is 0:2
+Mexicodid a goal, and it was #4Diego,Reyes did the goal.
+Now it is 1:2
+Holland wins with 2:1
+
+June 13
+Game 1
+This game is playing in Arena Castelao
+Group stage:
+Columbia vs Algeria
+Columbia
+#1       GK      David,Ospina
+#2       DF      Cristian,Zapata
+#3       DF      Mario,Yepes,(c)
+#4       DF      Santiago,Arias
+#5       MF      Carlos,Carbonero
+#6       MF      Carlos,Sanchez
+#7       DF      Pablo,Armero
+#8       MF      Abel,Aguilar
+#9       FW      Teofilo,Gutierrez
+#10      MF      James,Rodriguez
+#11      MF      Juan,Guillermo,Cuadrado
+#12      GK      Camilo,Vargas
+#13      MF      Fredy,Guarin
+#14      FW      Victor,Ibarbo
+#15      MF      Alexander,Mejia
+#16      DF      Eder,Alvarez,Balanta
+#17      FW      Carlos,Bacca
+#18      DF      Juan,Camilo,Zuniga
+#19      FW      Adrian,Ramos
+#20      MF      Juan,Fernando,Quintero
+#21      FW      Jackson,Martinez
+#22      GK      Faryd,Mondragon
+#23      DF      Carlos,Valdes
+Algeria
+#1       GK      Cedric,Si,Mohamed
+#2       DF      Madjid,Bougherra,(c)
+#3       DF      Faouzi,Ghoulam
+#4       DF      Essaid,Belkalem
+#5       DF      Rafik,Halliche
+#6       DF      Djamel,Mesbah
+#7       MF      Hassan,Yebda
+#8       MF      Medhi,Lacen
+#9       FW      Nabil,Ghilas
+#10      MF      Sofiane,Feghouli
+#11      MF      Yacine,Brahimi
+#12      DF      Carl,Medjani
+#13      FW      Islam,Slimani
+#14      MF      Nabil,Bentaleb
+#15      FW      El,Arbi,Hillel,Soudani
+#16      GK      Mohamed,Zemmamouche
+#17      DF      Liassine,Cadamuro-Benta?ba
+#18      MF      Abdelmoumene,Djabou
+#19      MF      Saphir,Taider
+#20      DF      Aissa,Mandi
+#21      MF      Riyad,Mahrez
+#22      MF      Mehdi,Mostefa
+#23      GK      Rais,M'Bolhi
+Playing...
+Algeriadid a goal, and it was #3Essaid,Belkalem did the goal.
+Now it is 0:1
+Columbiadid a goal, and it was #4Carlos,Carbonero did the goal.
+Now it is 1:1
+Algeriadid a goal, and it was #10Yacine,Brahimi did the goal.
+Now it is 1:2
+Algeriadid a goal, and it was #8Nabil,Ghilas did the goal.
+Now it is 1:3
+Algeriadid a goal, and it was #10Yacine,Brahimi did the goal.
+Now it is 1:4
+Columbiadid a goal, and it was #8Teofilo,Gutierrez did the goal.
+Now it is 2:4
+Columbiadid a goal, and it was #16Carlos,Bacca did the goal.
+Now it is 3:4
+Algeria wins with 4:3
+
+Game 2
+This game is playing in Arena de Sao Paulo
+Group stage:
+America vs Bosnia,and,Herzegovina
+America
+#1       GK      Tim,Howard
+#2       DF      DeAndre,Yedlin
+#3       DF      Omar,Gonzalez
+#4       MF      Michael,Bradley
+#5       DF      Matt,Besler
+#6       DF      John,Brooks
+#7       DF      DaMarcus,Beasley
+#8       FW      Clint,Dempsey,(c)
+#9       FW      Aron,Johannsson
+#10      MF      Mix,Diskerud
+#11      MF      Alejandro,Bedoya
+#12      GK      Brad,Guzan
+#13      MF      Jermaine,Jones
+#14      MF      Brad,Davis
+#15      MF      Kyle,Beckerman
+#16      MF      Julian,Green
+#17      FW      Jozy,Altidore
+#18      FW      Chris,Wondolowski
+#19      MF      Graham,Zusi
+#20      DF      Geoff,Cameron
+#21      DF      Timothy,Chandler
+#22      GK      Nick,Rimando
+#23      DF      Fabian,Johnson
+Bosnia,and,Herzegovina
+#1       GK      Asmir,Begovic
+#2       DF      Avdija,Vrsajevic
+#3       DF      Ermin,Bicakcic
+#4       DF      Emir,Spahic,(c)
+#5       DF      Sead,Kolasinac
+#6       DF      Ognjen,Vranjes
+#7       DF      Muhamed,Besic
+#8       MF      Miralem,Pjanic
+#9       FW      Vedad,Ibisevic
+#10      MF      Zvjezdan,Misimovic
+#11      FW      Edin,Dzeko
+#12      GK      Jasmin,Fejzic
+#13      DF      Mensur,Mujdza
+#14      MF      Tino-Sven,Susic
+#15      DF      Toni,Sunjic
+#16      MF      Senad,Lulic
+#17      MF      Senijad,Ibricic
+#18      MF      Haris,Medunjanin
+#19      FW      Edin,Visca
+#20      MF      Izet,Hajrovic
+#21      MF      Anel,Hadzic
+#22      GK      Asmir,Avdukic
+#23      MF      Sejad,Salihovic
+Playing...
+Americadid a goal, and it was #22Fabian,Johnson did the goal.
+Now it is 1:0
+Bosnia,and,Herzegovinadid a goal, and it was #14Toni,Sunjic did the goal.
+Now it is 1:1
+It is a draw with 1:1
+
+Game 3
+This game is playing in Estádio Beira-Rio
+Group stage:
+Belgium vs Ecuador
+Belgium
+#1       GK      Thibaut,Courtois
+#2       DF      Toby,Alderweireld
+#3       DF      Thomas,Vermaelen
+#4       DF      Vincent,Kompany,(c)
+#5       DF      Jan,Vertonghen
+#6       MF      Axel,Witsel
+#7       MF      Kevin,De,Bruyne
+#8       MF      Marouane,Fellaini
+#9       FW      Romelu,Lukaku
+#10      MF      Eden,Hazard
+#11      MF      Kevin,Mirallas
+#12      GK      Simon,Mignolet
+#13      GK      Sammy,Bossut
+#14      FW      Dries,Mertens
+#15      DF      Daniel,Van,Buyten
+#16      MF      Steven,Defour
+#17      FW      Divock,Origi
+#18      DF      Nicolas,Lombaerts
+#19      MF      Mousa,Dembele
+#20      MF      Adnan,Januzaj
+#21      DF      Anthony,Vanden,Borre
+#22      MF      Nacer,Chadli
+#23      DF      Laurent,Ciman
+Ecuador
+#1       GK      Maximo,Banguera
+#2       DF      Jorge,Guagua
+#3       DF      Frickson,Erazo
+#4       DF      Juan,Carlos,Paredes
+#5       MF      Renato,Ibarra
+#6       MF      Christian,Noboa
+#7       MF      Jefferson,Montero
+#8       MF      Edison,Mendez
+#9       MF      Joao,Rojas
+#10      DF      Walter,Ayovi
+#11      FW      Felipe,Caicedo
+#12      GK      Adrian,Bone
+#13      FW      Enner,Valencia
+#14      MF      Oswaldo,Minda
+#15      MF      Michael,Arroyo
+#16      MF      Antonio,Valencia,(c)
+#17      FW      Jaime,Ayovi
+#18      DF      Oscar,Bagui
+#19      MF      Luis,Saritama
+#20      MF      Fidel,Martinez
+#21      DF      Gabriel,Achilier
+#22      GK      Alexander,Dominguez
+#23      MF      Carlos,Gruezo
+Playing...
+Ecuadordid a goal, and it was #3Juan,Carlos,Paredes did the goal.
+Now it is 0:1
+Belgiumdid a goal, and it was #4Jan,Vertonghen did the goal.
+Now it is 1:1
+Belgiumdid a goal, and it was #12Sammy,Bossut did the goal.
+Now it is 2:1
+Belgiumdid a goal, and it was #7Marouane,Fellaini did the goal.
+Now it is 3:1
+Belgiumdid a goal, and it was #6Kevin,De,Bruyne did the goal.
+Now it is 4:1
+Belgium wins with 4:1
+
+Game 4
+This game is playing in Estádio Beira-Rio
+Group stage:
+Iran vs Portugal
+Iran
+#1       GK      Rahman,Ahmadi
+#2       MF      Khosro,Heydari
+#3       MF      Ehsan,Hajsafi
+#4       DF      Jalal,Hosseini
+#5       DF      Amir,Hossein,Sadeghi
+#6       MF      Javad,Nekounam,(c)
+#7       MF      Masoud,Shojaei
+#8       MF      Reza,Haghighi
+#9       FW      Alireza,Jahanbakhsh
+#10      FW      Karim,Ansarifard
+#11      MF      Ghasem,Haddadifar
+#12      GK      Alireza,Haghighi
+#13      DF      Hossein,Mahini
+#14      MF      Andranik,Teymourian
+#15      DF      Pejman,Montazeri
+#16      FW      Reza,Ghoochannejhad
+#17      DF      Ahmad,Alenemeh
+#18      MF      Bakhtiar,Rahmani
+#19      DF      Hashem,Beikzadeh
+#20      DF      Steven,Beitashour
+#21      MF      Ashkan,Dejagah
+#22      GK      Daniel,Davari
+#23      DF      Mehrdad,Pouladi
+Portugal
+#1       GK      Eduardo 
+#2       DF      Bruno,Alves
+#3       DF      Pepe    
+#4       MF      Miguel,Veloso
+#5       DF      Fabio,Coentrao
+#6       MF      William,Carvalho
+#7       FW      Cristiano,Ronaldo,(c)
+#8       MF      Joao,Moutinho
+#9       FW      Hugo,Almeida
+#10      MF      Vieirinha
+#11      FW      Eder    
+#12      GK      Rui,Patricio
+#13      DF      Ricardo,Costa
+#14      DF      Luis,Neto
+#15      MF      Rafa,Silva
+#16      MF      Raul,Meireles
+#17      MF      Nani    
+#18      MF      Silvestre,Varela
+#19      DF      Andre,Almeida
+#20      MF      Ruben,Amorim
+#21      DF      Joao,Pereira
+#22      GK      Beto    
+#23      FW      Helder,Postiga
+Playing...
+Irandid a goal, and it was #2Ehsan,Hajsafi did the goal.
+Now it is 1:0
+Portugaldid a goal, and it was #7Joao,Moutinho did the goal.
+Now it is 1:1
+It is a draw with 1:1
+
+June 14
+Game 1
+This game is playing in Estádio Beira-Rio
+Group stage:
+Uruguay vs Nigeria
+Uruguay
+#1       GK      Fernando,Muslera
+#2       DF      Diego,Lugano,(c)
+#3       DF      Diego,Godin
+#4       DF      Jorge,Fucile
+#5       MF      Walter,Gargano
+#6       MF      Alvaro,Pereira
+#7       MF      Cristian,Rodriguez
+#8       FW      Abel,Hernandez
+#9       FW      Luis,Suarez
+#10      FW      Diego,Forlan
+#11      FW      Christian,Stuani
+#12      GK      Rodrigo,Munoz
+#13      DF      Jose,Maria,Gimenez
+#14      MF      Nicolas,Lodeiro
+#15      MF      Diego,Perez
+#16      DF      Maxi,Pereira
+#17      MF      Egidio,Arevalo,Rios
+#18      MF      Gaston,Ramirez
+#19      DF      Sebastian,Coates
+#20      MF      Alvaro,Gonzalez
+#21      FW      Edinson,Cavani
+#22      DF      Martin,Caceres
+#23      GK      Martin,Silva
+Nigeria
+#1       GK      Vincent,Enyeama
+#2       DF      Joseph,Yobo,(c)
+#3       MF      Ejike,Uzoenyi
+#4       MF      Reuben,Gabriel
+#5       DF      Efe,Ambrose
+#6       DF      Azubuike,Egwuekwe
+#7       FW      Ahmed,Musa
+#8       FW      Peter,Odemwingie
+#9       FW      Emmanuel,Emenike
+#10      MF      John,Obi,Mikel
+#11      MF      Victor,Moses
+#12      DF      Kunle,Odunlami
+#13      DF      Juwon,Oshaniwa
+#14      DF      Godfrey,Oboabona
+#15      MF      Ramon,Azeez
+#16      GK      Austin,Ejide
+#17      MF      Ogenyi,Onazi
+#18      MF      Michael,Babatunde
+#19      FW      Uche,Nwofor
+#20      FW      Michael,Uchebo
+#21      GK      Chigozie,Agbim
+#22      DF      Kenneth,Omeruo
+#23      FW      Shola,Ameobi
+Playing...
+Uruguaydid a goal, and it was #10Christian,Stuani did the goal.
+Now it is 1:0
+Uruguaydid a goal, and it was #19Alvaro,Gonzalez did the goal.
+Now it is 2:0
+Uruguaydid a goal, and it was #19Alvaro,Gonzalez did the goal.
+Now it is 3:0
+Nigeriadid a goal, and it was #19Michael,Uchebo did the goal.
+Now it is 3:1
+Uruguaydid a goal, and it was #10Christian,Stuani did the goal.
+Now it is 4:1
+Uruguay wins with 4:1
+
+Game 2
+This game is playing in Arena Pantanal
+Group stage:
+Honduras vs Italy
+Honduras
+#1       GK      Luis,Lopez
+#2       DF      Osman,Chavez
+#3       DF      Maynor,Figueroa
+#4       DF      Juan,Pablo,Montes
+#5       DF      Victor,Bernardez
+#6       DF      Juan,Carlos,Garcia
+#7       DF      Emilio,Izaguirre
+#8       MF      Wilson,Palacios
+#9       FW      Jerry,Palacios
+#10      MF      Mario,Martinez
+#11      FW      Jerry,Bengtson
+#12      MF      Edder,Delgado
+#13      FW      Carlo,Costly
+#14      MF      Oscar,Boniek,Garcia
+#15      MF      Roger,Espinoza
+#16      FW      Rony,Martinez
+#17      MF      Andy,Najar
+#18      GK      Noel,Valladares,(c)
+#19      MF      Luis,Garrido
+#20      MF      Jorge,Claros
+#21      DF      Brayan,Beckeles
+#22      GK      Donis,Escober
+#23      MF      Marvin,Chavez
+Italy
+#1       GK      Gianluigi,Buffon,(c)
+#2       DF      Mattia,De,Sciglio
+#3       DF      Giorgio,Chiellini
+#4       DF      Matteo,Darmian
+#5       MF      Thiago,Motta
+#6       MF      Antonio,Candreva
+#7       DF      Ignazio,Abate
+#8       MF      Claudio,Marchisio
+#9       FW      Mario,Balotelli
+#10      FW      Antonio,Cassano
+#11      FW      Alessio,Cerci
+#12      GK      Salvatore,Sirigu
+#13      GK      Mattia,Perin
+#14      MF      Alberto,Aquilani
+#15      DF      Andrea,Barzagli
+#16      MF      Daniele,De,Rossi
+#17      FW      Ciro,Immobile
+#18      MF      Marco,Parolo
+#19      DF      Leonardo,Bonucci
+#20      DF      Gabriel,Paletta
+#21      MF      Andrea,Pirlo
+#22      FW      Lorenzo,Insigne
+#23      MF      Marco,Verratti
+Playing...
+Hondurasdid a goal, and it was #17Noel,Valladares,(c) did the goal.
+Now it is 1:0
+Hondurasdid a goal, and it was #3Juan,Pablo,Montes did the goal.
+Now it is 2:0
+Hondurasdid a goal, and it was #18Luis,Garrido did the goal.
+Now it is 3:0
+Italydid a goal, and it was #5Antonio,Candreva did the goal.
+Now it is 3:1
+Italydid a goal, and it was #20Andrea,Pirlo did the goal.
+Now it is 3:2
+Hondurasdid a goal, and it was #10Jerry,Bengtson did the goal.
+Now it is 4:2
+Italydid a goal, and it was #12Mattia,Perin did the goal.
+Now it is 4:3
+Honduras wins with 4:3
+
+Game 3
+This game is playing in Arena da Baixada
+Group stage:
+Spain vs Chile
+Spain
+#1       GK      Iker,Casillas,(c)
+#2       DF      Raul,Albiol
+#3       DF      Gerard,Pique
+#4       MF      Javi,Martinez
+#5       DF      Juanfran
+#6       MF      Andres,Iniesta
+#7       FW      David,Villa
+#8       MF      Xavi    
+#9       FW      Fernando,Torres
+#10      MF      Cesc,Fabregas
+#11      FW      Pedro   
+#12      GK      David,de,Gea
+#13      MF      Juan,Mata
+#14      MF      Xabi,Alonso
+#15      DF      Sergio,Ramos
+#16      MF      Sergio,Busquets
+#17      MF      Koke    
+#18      DF      Jordi,Alba
+#19      FW      Diego,Costa
+#20      MF      Santi,Cazorla
+#21      MF      David,Silva
+#22      DF      Cesar,Azpilicueta
+#23      GK      Pepe,Reina
+Chile
+#1       GK      Claudio,Bravo,(c)
+#2       DF      Eugenio,Mena
+#3       DF      Miiko,Albornoz
+#4       MF      Mauricio,Isla
+#5       MF      Francisco,Silva
+#6       MF      Carlos,Carmona
+#7       FW      Alexis,Sanchez
+#8       MF      Arturo,Vidal
+#9       FW      Mauricio,Pinilla
+#10      MF      Jorge,Valdivia
+#11      FW      Eduardo,Vargas
+#12      GK      Cristopher,Toselli
+#13      DF      Jose,Manuel,Rojas
+#14      MF      Fabian,Orellana
+#15      MF      Jean,Beausejour
+#16      MF      Felipe,Gutierrez
+#17      DF      Gary,Medel
+#18      DF      Gonzalo,Jara
+#19      MF      Jose,Pedro,Fuenzalida
+#20      MF      Charles,Aranguiz
+#21      MF      Marcelo,Diaz
+#22      FW      Esteban,Paredes
+#23      GK      Johnny,Herrera
+Playing...
+Chiledid a goal, and it was #6Alexis,Sanchez did the goal.
+Now it is 0:1
+Chile wins with 1:0
+
+Game 4
+This game is playing in Arena Fonte Nova
+Group stage:
+Australia vs Greece
+Australia
+#1       GK      Mathew,Ryan
+#2       DF      Ivan,Franjic
+#3       DF      Jason,Davidson
+#4       FW      Tim,Cahill
+#5       MF      Mark,Milligan
+#6       DF      Matthew,Spiranovic
+#7       FW      Mathew,Leckie
+#8       DF      Bailey,Wright
+#9       FW      Adam,Taggart
+#10      MF      Ben,Halloran
+#11      MF      Tommy,Oar
+#12      GK      Mitchell,Langerak
+#13      MF      Oliver,Bozanic
+#14      MF      James,Troisi
+#15      MF      Mile,Jedinak,(c)
+#16      MF      James,Holland
+#17      MF      Matt,McKay
+#18      GK      Eugene,Galekovic
+#19      DF      Ryan,McGowan
+#20      MF      Dario,Vidosic
+#21      MF      Massimo,Luongo
+#22      DF      Alex,Wilkinson
+#23      MF      Mark,Bresciano
+Greece
+#1       GK      Orestis,Karnezis
+#2       MF      Giannis,Maniatis
+#3       DF      Giorgos,Tzavellas
+#4       DF      Kostas,Manolas
+#5       DF      Vangelis,Moras
+#6       MF      Alexandros,Tziolis
+#7       FW      Georgios,Samaras
+#8       MF      Panagiotis,Kone
+#9       FW      Kostas,Mitroglou
+#10      MF      Giorgos,Karagounis,(c)
+#11      DF      Loukas,Vyntra
+#12      GK      Panagiotis,Glykos
+#13      GK      Stefanos,Kapino
+#14      FW      Dimitris,Salpingidis
+#15      DF      Vasilis,Torosidis
+#16      MF      Lazaros,Christodoulopoulos
+#17      FW      Theofanis,Gekas
+#18      MF      Giannis,Fetfatzidis
+#19      DF      Sokratis,Papastathopoulos
+#20      DF      Jose,Holebas
+#21      MF      Kostas,Katsouranis
+#22      MF      Andreas,Samaris
+#23      MF      Panagiotis,Tachtsidis
+Playing...
+Greecedid a goal, and it was #5Alexandros,Tziolis did the goal.
+Now it is 0:1
+Australiadid a goal, and it was #19Dario,Vidosic did the goal.
+Now it is 1:1
+Australiadid a goal, and it was #5Matthew,Spiranovic did the goal.
+Now it is 2:1
+Greecedid a goal, and it was #22Panagiotis,Tachtsidis did the goal.
+Now it is 2:2
+It is a draw with 2:2
+
+June 15
+Game 1
+This game is playing in Arena das Dunas
+Group stage:
+Germany vs Ivory,Coast
+Germany
+#1       GK      Manuel,Neuer
+#2       DF      Kevin,GroBkreutz
+#3       DF      Matthias,Ginter
+#4       DF      Benedikt,Howedes
+#5       DF      Mats,Hummels
+#6       MF      Sami,Khedira
+#7       MF      Bastian,Schweinsteiger
+#8       MF      Mesut,Ozil
+#9       MF      Andre,Schurrle
+#10      FW      Lukas,Podolski
+#11      FW      Miroslav,Klose
+#12      GK      Ron-Robert,Zieler
+#13      MF      Thomas,Muller
+#14      MF      Julian,Draxler
+#15      DF      Erik,Durm
+#16      DF      Philipp,Lahm,(c)
+#17      DF      Per,Mertesacker
+#18      MF      Toni,Kroos
+#19      MF      Mario,Gotze
+#20      DF      Jerome,Boateng
+#21      DF      Shkodran,Mustafi
+#22      GK      Roman,Weidenfeller
+#23      MF      Christoph,Kramer
+Ivory,Coast
+#1       GK      Boubacar,Barry
+#2       DF      Ousmane,Viera
+#3       DF      Arthur,Boka
+#4       DF      Kolo,Toure
+#5       DF      Didier,Zokora
+#6       FW      Mathis,Bolly
+#7       DF      Jean-Daniel,Akpa-Akpro
+#8       FW      Salomon,Kalou
+#9       MF      Cheick,Tiote
+#10      FW      Gervinho
+#11      FW      Didier,Drogba,(c)
+#12      FW      Wilfried,Bony
+#13      FW      Didier,Ya,Konan
+#14      MF      Ismael,Diomande
+#15      FW      Max,Gradel
+#16      GK      Sylvain,Gbohouo
+#17      DF      Serge,Aurier
+#18      DF      Constant,Djakpa
+#19      MF      Yaya,Toure
+#20      MF      Serey,Die
+#21      FW      Giovanni,Sio
+#22      DF      Sol,Bamba
+#23      GK      Sayouba,Mande
+Playing...
+Ivory,Coastdid a goal, and it was #21Sol,Bamba did the goal.
+Now it is 0:1
+Ivory,Coastdid a goal, and it was #3Kolo,Toure did the goal.
+Now it is 0:2
+Germanydid a goal, and it was #0Manuel,Neuer did the goal.
+Now it is 1:2
+Ivory,Coast wins with 2:1
+
+Game 2
+This game is playing in Arena Castelao
+Group stage:
+Japan vs France
+Japan
+#1       GK      Eiji,Kawashima
+#2       DF      Atsuto,Uchida
+#3       DF      Gotoku,Sakai
+#4       MF      Keisuke,Honda
+#5       DF      Yuto,Nagatomo
+#6       DF      Masato,Morishige
+#7       MF      Yasuhito,Endo
+#8       MF      Hiroshi,Kiyotake
+#9       FW      Shinji,Okazaki
+#10      MF      Shinji,Kagawa
+#11      FW      Yoichiro,Kakitani
+#12      GK      Shusaku,Nishikawa
+#13      FW      Yoshito,Okubo
+#14      MF      Toshihiro,Aoyama
+#15      DF      Yasuyuki,Konno
+#16      MF      Hotaru,Yamaguchi
+#17      MF      Makoto,Hasebe,(c)
+#18      FW      Yuya,Osako
+#19      DF      Masahiko,Inoha
+#20      FW      Manabu,Saito
+#21      DF      Hiroki,Sakai
+#22      DF      Maya,Yoshida
+#23      GK      Shuichi,Gonda
+France
+#1       GK      Hugo,Lloris,(c)
+#2       DF      Mathieu,Debuchy
+#3       DF      Patrice,Evra
+#4       DF      Raphael,Varane
+#5       DF      Mamadou,Sakho
+#6       MF      Yohan,Cabaye
+#7       MF      Remy,Cabella
+#8       MF      Mathieu,Valbuena
+#9       FW      Olivier,Giroud
+#10      FW      Karim,Benzema
+#11      MF      Antoine,Griezmann
+#12      MF      Rio,Mavuba
+#13      DF      Eliaquim,Mangala
+#14      MF      Blaise,Matuidi
+#15      DF      Bacary,Sagna
+#16      GK      Stephane,Ruffier
+#17      DF      Lucas,Digne
+#18      MF      Moussa,Sissoko
+#19      MF      Paul,Pogba
+#20      FW      Loic,Remy
+#21      DF      Laurent,Koscielny
+#22      MF      Morgan,Schneiderlin
+#23      GK      Mickael,Landreau
+Playing...
+Japandid a goal, and it was #5Masato,Morishige did the goal.
+Now it is 1:0
+Japandid a goal, and it was #9Shinji,Kagawa did the goal.
+Now it is 2:0
+Japandid a goal, and it was #7Hiroshi,Kiyotake did the goal.
+Now it is 3:0
+Japandid a goal, and it was #19Manabu,Saito did the goal.
+Now it is 4:0
+Japan wins with 4:0
+
+Game 3
+This game is playing in Arena Pantanal
+Group stage:
+Switzerland vs Garner
+Switzerland
+#1       GK      Diego,Benaglio
+#2       DF      Stephan,Lichtsteiner
+#3       DF      Reto,Ziegler
+#4       DF      Philippe,Senderos
+#5       DF      Steve,von,Bergen
+#6       DF      Michael,Lang
+#7       MF      Tranquillo,Barnetta
+#8       MF      Gokhan,Inler,(c)
+#9       FW      Haris,Seferovic
+#10      MF      Granit,Xhaka
+#11      MF      Valon,Behrami
+#12      GK      Yann,Sommer
+#13      DF      Ricardo,Rodriguez
+#14      MF      Valentin,Stocker
+#15      MF      Blerim,Dzemaili
+#16      MF      Gelson,Fernandes
+#17      FW      Mario,Gavranovic
+#18      FW      Admir,Mehmedi
+#19      FW      Josip,Drmic
+#20      DF      Johan,Djourou
+#21      GK      Roman,Burki
+#22      DF      Fabian,Schar
+#23      MF      Xherdan,Shaqiri
+Garner
+#1       GK      Stephen,Adams
+#2       DF      Samuel,Inkoom
+#3       FW      Asamoah,Gyan,(c)
+#4       DF      Daniel,Opare
+#5       MF      Michael,Essien
+#6       MF      Afriyie,Acquah
+#7       MF      Christian,Atsu
+#8       MF      Emmanuel,Agyemang-Badu
+#9       FW      Kevin-Prince,Boateng
+#10      MF      Andre,Ayew
+#11      MF      Sulley,Muntari
+#12      GK      Adam,Kwarasey
+#13      FW      Jordan,Ayew
+#14      MF      Albert,Adomah
+#15      DF      Rashid,Sumaila
+#16      GK      Fatau,Dauda
+#17      MF      Mohammed,Rabiu
+#18      FW      Majeed,Waris
+#19      DF      Jonathan,Mensah
+#20      MF      Kwadwo,Asamoah
+#21      DF      John,Boye
+#22      MF      Wakaso,Mubarak
+#23      DF      Harrison,Afful
+Playing...
+Garnerdid a goal, and it was #6Christian,Atsu did the goal.
+Now it is 0:1
+Switzerlanddid a goal, and it was #21Fabian,Schar did the goal.
+Now it is 1:1
+Switzerlanddid a goal, and it was #4Steve,von,Bergen did the goal.
+Now it is 2:1
+Switzerlanddid a goal, and it was #17Admir,Mehmedi did the goal.
+Now it is 3:1
+Switzerland wins with 3:1
+
+Game 4
+This game is playing in Arena das Dunas
+Group stage:
+Costa,Rica vs Russia
+Costa,Rica
+#1       GK      Keylor,Navas
+#2       DF      Johnny,Acosta
+#3       DF      Giancarlo,Gonzalez
+#4       DF      Michael,Umana
+#5       MF      Celso,Borges
+#6       DF      Oscar,Duarte
+#7       MF      Christian,Bola?os
+#8       DF      David,Myrie
+#9       FW      Joel,Campbell
+#10      FW      Bryan,Ruiz,(c)
+#11      MF      Michael,Barrantes
+#12      DF      Waylon,Francis
+#13      MF      Esteban,Granados
+#14      FW      Randall,Brenes
+#15      DF      Junior,Diaz
+#16      DF      Cristian,Gamboa
+#17      MF      Yeltsin,Tejeda
+#18      GK      Patrick,Pemberton
+#19      DF      Roy,Miller
+#20      MF      Diego,Calvo
+#21      FW      Marco,Urena
+#22      MF      Jose,Miguel,Cubero
+#23      GK      Daniel,Cambronero
+Russia
+#1       GK      Igor,Akinfeev
+#2       DF      Aleksei,Kozlov
+#3       DF      Georgi,Shchennikov
+#4       DF      Sergei,Ignashevich
+#5       DF      Andrei,Semyonov
+#6       FW      Maksim,Kanunnikov
+#7       MF      Igor,Denisov
+#8       MF      Denis,Glushakov
+#9       FW      Aleksandr,Kokorin
+#10      MF      Alan,Dzagoev
+#11      FW      Aleksandr,Kerzhakov
+#12      GK      Yuri,Lodygin
+#13      DF      Vladimir,Granat
+#14      DF      Vasili,Berezutski,(c)
+#15      MF      Pavel,Mogilevets
+#16      GK      Sergey,Ryzhikov
+#17      MF      Oleg,Shatov
+#18      FW      Yuri,Zhirkov
+#19      FW      Aleksandr,Samedov
+#20      MF      Viktor,Fayzulin
+#21      FW      Aleksei,Ionov
+#22      DF      Andrey,Yeshchenko
+#23      DF      Dmitri,Kombarov
+Playing...
+Russiadid a goal, and it was #16Oleg,Shatov did the goal.
+Now it is 0:1
+Costa,Ricadid a goal, and it was #10Michael,Barrantes did the goal.
+Now it is 1:1
+Russiadid a goal, and it was #9Alan,Dzagoev did the goal.
+Now it is 1:2
+Costa,Ricadid a goal, and it was #18Roy,Miller did the goal.
+Now it is 2:2
+Russiadid a goal, and it was #8Aleksandr,Kokorin did the goal.
+Now it is 2:3
+Russiadid a goal, and it was #11Yuri,Lodygin did the goal.
+Now it is 2:4
+Costa,Ricadid a goal, and it was #8Joel,Campbell did the goal.
+Now it is 3:4
+Russia wins with 4:3
+
+June 16
+Game 1
+This game is playing in Arena da Baixada
+Group stage:
+Brazil(hosts) vs South,Korea
+Brazil(hosts)
+#1       GK      Jefferson
+#2       DF      Dani,Alves
+#3       DF      Thiago,Silva,(c)
+#4       DF      David,Luiz
+#5       MF      Fernandinho
+#6       DF      Marcelo 
+#7       FW      Hulk    
+#8       MF      Paulinho
+#9       FW      Fred    
+#10      FW      Neymar  
+#11      MF      Oscar   
+#12      GK      Julio,Cesar
+#13      DF      Dante   
+#14      DF      Maxwell 
+#15      DF      Henrique
+#16      MF      Ramires 
+#17      MF      Luiz,Gustavo
+#18      MF      Hernanes
+#19      MF      Willian 
+#20      FW      Bernard 
+#21      FW      Jo      
+#22      GK      Victor  
+#23      DF      Maicon  
+South,Korea
+#1       GK      Jung,Sung-ryong
+#2       DF      Kim,Chang-soo
+#3       DF      Yun,Suk-young
+#4       DF      Kwak,Tae-hwi
+#5       DF      Kim,Young-gwon
+#6       DF      Hwang,Seok-ho
+#7       MF      Kim,Bo-kyung
+#8       MF      Ha,Dae-sung
+#9       FW      Son,Heung-min
+#10      FW      Park,Chu-young
+#11      FW      Lee,Keun-ho
+#12      DF      Lee,Yong
+#13      MF      Koo,Ja-cheol,(c)
+#14      MF      Han,Kook-young
+#15      MF      Park,Jong-woo
+#16      MF      Ki,Sung-yueng
+#17      MF      Lee,Chung-yong
+#18      FW      Kim,Shin-wook
+#19      FW      Ji,Dong-won
+#20      DF      Hong,Jeong-ho
+#21      GK      Kim,Seung-gyu
+#22      DF      Park,Joo-ho
+#23      GK      Lee,Bum-young
+Playing...
+Brazil(hosts)did a goal, and it was #16Luiz,Gustavo did the goal.
+Now it is 1:0
+South,Koreadid a goal, and it was #19Hong,Jeong-ho did the goal.
+Now it is 1:1
+South,Koreadid a goal, and it was #3Kwak,Tae-hwi did the goal.
+Now it is 1:2
+South,Koreadid a goal, and it was #12Koo,Ja-cheol,(c) did the goal.
+Now it is 1:3
+Brazil(hosts)did a goal, and it was #19Bernard did the goal.
+Now it is 2:3
+Brazil(hosts)did a goal, and it was #15Ramires did the goal.
+Now it is 3:3
+Brazil(hosts)did a goal, and it was #19Bernard did the goal.
+Now it is 4:3
+Brazil(hosts) wins with 4:3
+
+Game 2
+This game is playing in Arena de Sao Paulo
+Group stage:
+Cameroon vs England
+Cameroon
+#1       GK      Lo?c,Feudjou
+#2       DF      Beno?t,Assou-Ekotto
+#3       DF      Nicolas,N'Koulou
+#4       DF      Cedric,Djeugoue
+#5       DF      Dany,Nounkeu
+#6       MF      Alex,Song
+#7       MF      Landry,N'Guemo
+#8       FW      Benjamin,Moukandjo
+#9       FW      Samuel,Eto'o,(c)
+#10      FW      Vincent,Aboubakar
+#11      MF      Jean,Makoun
+#12      DF      Henri,Bedimo
+#13      FW      Maxim,Choupo-Moting
+#14      DF      Aurelien,Chedjou
+#15      FW      Pierre,Webo
+#16      GK      Charles,Itandje
+#17      MF      Stephane,Mbia
+#18      MF      Eyong,Enoh
+#19      FW      Fabrice,Olinga
+#20      MF      Edgar,Salli
+#21      MF      Jo?l,Matip
+#22      DF      Allan,Nyom
+#23      GK      Sammy,N'Djock
+England
+#1       GK      Joe,Hart
+#2       DF      Glen,Johnson
+#3       DF      Leighton,Baines
+#4       MF      Steven,Gerrard,(c)
+#5       DF      Gary,Cahill
+#6       DF      Phil,Jagielka
+#7       MF      Jack,Wilshere
+#8       MF      Frank,Lampard
+#9       FW      Daniel,Sturridge
+#10      FW      Wayne,Rooney
+#11      FW      Danny,Welbeck
+#12      DF      Chris,Smalling
+#13      GK      Ben,Foster
+#14      MF      Jordan,Henderson
+#15      MF      Alex,Oxlade-Chamberlain
+#16      DF      Phil,Jones
+#17      MF      James,Milner
+#18      FW      Rickie,Lambert
+#19      MF      Raheem,Sterling
+#20      MF      Adam,Lallana
+#21      MF      Ross,Barkley
+#22      GK      Fraser,Forster
+#23      DF      Luke,Shaw
+Playing...
+It is a draw with 0:0
+
+Game 3
+This game is playing in Arena das Dunas
+Group stage:
+Argentina vs Mexico
+Argentina
+#1       GK      Sergio,Romero
+#2       DF      Ezequiel,Garay
+#3       DF      Hugo,Campagnaro
+#4       DF      Pablo,Zabaleta
+#5       MF      Fernando,Gago
+#6       MF      Lucas,Biglia
+#7       MF      Angel,Di,Maria
+#8       MF      Enzo,Perez
+#9       FW      Gonzalo,Higuain
+#10      FW      Lionel,Messi,(c)
+#11      MF      Maxi,Rodriguez
+#12      GK      Agustin,Orion
+#13      MF      Augusto,Fernandez
+#14      MF      Javier,Mascherano
+#15      DF      Martin,Demichelis
+#16      DF      Marcos,Rojo
+#17      DF      Federico,Fernandez
+#18      FW      Rodrigo,Palacio
+#19      MF      Ricardo,Alvarez
+#20      FW      Sergio,Aguero
+#21      GK      Mariano,Andujar
+#22      FW      Ezequiel,Lavezzi
+#23      DF      Jose,Maria,Basanta
+Mexico
+#1       GK      Jose,de,Jesus,Corona
+#2       DF      Francisco,Javier,Rodriguez
+#3       DF      Carlos,Salcido
+#4       DF      Rafael,Marquez,(c)
+#5       DF      Diego,Reyes
+#6       MF      Hector,Herrera
+#7       DF      Miguel,Layun
+#8       MF      Marco,Fabian
+#9       FW      Raul,Jimenez
+#10      FW      Giovani,dos,Santos
+#11      FW      Alan,Pulido
+#12      GK      Alfredo,Talavera
+#13      GK      Guillermo,Ochoa
+#14      FW      Javier,Hernandez
+#15      DF      Hector,Moreno
+#16      DF      Miguel,Angel,Ponce
+#17      MF      Isaac,Brizuela
+#18      DF      Andres,Guardado
+#19      FW      Oribe,Peralta
+#20      MF      Javier,Aquino
+#21      MF      Carlos,Pena
+#22      DF      Paul,Aguilar
+#23      MF      Jose,Juan,Vazquez
+Playing...
+Mexicodid a goal, and it was #5Hector,Herrera did the goal.
+Now it is 0:1
+Mexicodid a goal, and it was #4Diego,Reyes did the goal.
+Now it is 0:2
+Mexicodid a goal, and it was #9Giovani,dos,Santos did the goal.
+Now it is 0:3
+Argentinadid a goal, and it was #18Ricardo,Alvarez did the goal.
+Now it is 1:3
+Argentinadid a goal, and it was #22Jose,Maria,Basanta did the goal.
+Now it is 2:3
+Mexicodid a goal, and it was #13Javier,Hernandez did the goal.
+Now it is 2:4
+Argentinadid a goal, and it was #3Pablo,Zabaleta did the goal.
+Now it is 3:4
+Argentinadid a goal, and it was #1Ezequiel,Garay did the goal.
+Now it is 4:4
+It is a draw with 4:4
+
+Game 4
+This game is playing in Mineirao
+Group stage:
+Croatia vs Holland
+Croatia
+#1       GK      Stipe,Pletikosa
+#2       DF      ?ime,Vrsaljko
+#3       DF      Danijel,Pranji?
+#4       MF      Ivan,Peri?i?
+#5       DF      Vedran,?orluka
+#6       DF      Dejan,Lovren
+#7       MF      Ivan,Rakiti?
+#8       MF      Ognjen,Vukojevi?
+#9       FW      Nikica,Jelavi?
+#10      MF      Luka,Modri?
+#11      DF      Darijo,Srna,(c)
+#12      GK      Oliver,Zelenika
+#13      DF      Gordon,Schildenfeld
+#14      MF      Marcelo,Brozovi?
+#15      MF      Milan,Badelj
+#16      FW      Ante,Rebi?
+#17      FW      Mario,Mand?uki?
+#18      FW      Ivica,Oli?
+#19      MF      Sammir  
+#20      MF      Mateo,Kova?i?
+#21      DF      Domagoj,Vida
+#22      FW      Eduardo 
+#23      GK      Danijel,Suba?i?
+Holland
+#1       GK      Jasper,Cillessen
+#2       DF      Ron,Vlaar
+#3       DF      Stefan,de,Vrij
+#4       DF      Bruno,Martins,Indi
+#5       DF      Daley,Blind
+#6       MF      Nigel,de,Jong
+#7       DF      Daryl,Janmaat
+#8       MF      Jonathan,de,Guzman
+#9       FW      Robin,van,Persie,(c)
+#10      MF      Wesley,Sneijder
+#11      FW      Arjen,Robben
+#12      DF      Paul,Verhaegh
+#13      DF      Jo?l,Veltman
+#14      DF      Terence,Kongolo
+#15      FW      Dirk,Kuyt
+#16      MF      Jordy,Clasie
+#17      FW      Jeremain,Lens
+#18      MF      Leroy,Fer
+#19      FW      Klaas-Jan,Huntelaar
+#20      MF      Georginio,Wijnaldum
+#21      FW      Memphis,Depay
+#22      GK      Michel,Vorm
+#23      GK      Tim,Krul
+Playing...
+Hollanddid a goal, and it was #6Daryl,Janmaat did the goal.
+Now it is 0:1
+Holland wins with 1:0
+
+June 17
+Game 1
+This game is playing in Arena Castelao
+Group stage:
+Columbia vs America
+Columbia
+#1       GK      David,Ospina
+#2       DF      Cristian,Zapata
+#3       DF      Mario,Yepes,(c)
+#4       DF      Santiago,Arias
+#5       MF      Carlos,Carbonero
+#6       MF      Carlos,Sanchez
+#7       DF      Pablo,Armero
+#8       MF      Abel,Aguilar
+#9       FW      Teofilo,Gutierrez
+#10      MF      James,Rodriguez
+#11      MF      Juan,Guillermo,Cuadrado
+#12      GK      Camilo,Vargas
+#13      MF      Fredy,Guarin
+#14      FW      Victor,Ibarbo
+#15      MF      Alexander,Mejia
+#16      DF      Eder,Alvarez,Balanta
+#17      FW      Carlos,Bacca
+#18      DF      Juan,Camilo,Zuniga
+#19      FW      Adrian,Ramos
+#20      MF      Juan,Fernando,Quintero
+#21      FW      Jackson,Martinez
+#22      GK      Faryd,Mondragon
+#23      DF      Carlos,Valdes
+America
+#1       GK      Tim,Howard
+#2       DF      DeAndre,Yedlin
+#3       DF      Omar,Gonzalez
+#4       MF      Michael,Bradley
+#5       DF      Matt,Besler
+#6       DF      John,Brooks
+#7       DF      DaMarcus,Beasley
+#8       FW      Clint,Dempsey,(c)
+#9       FW      Aron,Johannsson
+#10      MF      Mix,Diskerud
+#11      MF      Alejandro,Bedoya
+#12      GK      Brad,Guzan
+#13      MF      Jermaine,Jones
+#14      MF      Brad,Davis
+#15      MF      Kyle,Beckerman
+#16      MF      Julian,Green
+#17      FW      Jozy,Altidore
+#18      FW      Chris,Wondolowski
+#19      MF      Graham,Zusi
+#20      DF      Geoff,Cameron
+#21      DF      Timothy,Chandler
+#22      GK      Nick,Rimando
+#23      DF      Fabian,Johnson
+Playing...
+Americadid a goal, and it was #1DeAndre,Yedlin did the goal.
+Now it is 0:1
+Columbiadid a goal, and it was #0David,Ospina did the goal.
+Now it is 1:1
+Americadid a goal, and it was #5John,Brooks did the goal.
+Now it is 1:2
+Columbiadid a goal, and it was #4Carlos,Carbonero did the goal.
+Now it is 2:2
+Columbiadid a goal, and it was #4Carlos,Carbonero did the goal.
+Now it is 3:2
+Columbiadid a goal, and it was #18Adrian,Ramos did the goal.
+Now it is 4:2
+Columbia wins with 4:2
+
+Game 2
+This game is playing in Maracan
+Group stage:
+Algeria vs Bosnia,and,Herzegovina
+Algeria
+#1       GK      Cedric,Si,Mohamed
+#2       DF      Madjid,Bougherra,(c)
+#3       DF      Faouzi,Ghoulam
+#4       DF      Essaid,Belkalem
+#5       DF      Rafik,Halliche
+#6       DF      Djamel,Mesbah
+#7       MF      Hassan,Yebda
+#8       MF      Medhi,Lacen
+#9       FW      Nabil,Ghilas
+#10      MF      Sofiane,Feghouli
+#11      MF      Yacine,Brahimi
+#12      DF      Carl,Medjani
+#13      FW      Islam,Slimani
+#14      MF      Nabil,Bentaleb
+#15      FW      El,Arbi,Hillel,Soudani
+#16      GK      Mohamed,Zemmamouche
+#17      DF      Liassine,Cadamuro-Benta?ba
+#18      MF      Abdelmoumene,Djabou
+#19      MF      Saphir,Taider
+#20      DF      Aissa,Mandi
+#21      MF      Riyad,Mahrez
+#22      MF      Mehdi,Mostefa
+#23      GK      Rais,M'Bolhi
+Bosnia,and,Herzegovina
+#1       GK      Asmir,Begovic
+#2       DF      Avdija,Vrsajevic
+#3       DF      Ermin,Bicakcic
+#4       DF      Emir,Spahic,(c)
+#5       DF      Sead,Kolasinac
+#6       DF      Ognjen,Vranjes
+#7       DF      Muhamed,Besic
+#8       MF      Miralem,Pjanic
+#9       FW      Vedad,Ibisevic
+#10      MF      Zvjezdan,Misimovic
+#11      FW      Edin,Dzeko
+#12      GK      Jasmin,Fejzic
+#13      DF      Mensur,Mujdza
+#14      MF      Tino-Sven,Susic
+#15      DF      Toni,Sunjic
+#16      MF      Senad,Lulic
+#17      MF      Senijad,Ibricic
+#18      MF      Haris,Medunjanin
+#19      FW      Edin,Visca
+#20      MF      Izet,Hajrovic
+#21      MF      Anel,Hadzic
+#22      GK      Asmir,Avdukic
+#23      MF      Sejad,Salihovic
+Playing...
+Algeriadid a goal, and it was #9Sofiane,Feghouli did the goal.
+Now it is 1:0
+Bosnia,and,Herzegovinadid a goal, and it was #6Muhamed,Besic did the goal.
+Now it is 1:1
+Algeriadid a goal, and it was #16Liassine,Cadamuro-Benta?ba did the goal.
+Now it is 2:1
+Algeriadid a goal, and it was #19Aissa,Mandi did the goal.
+Now it is 3:1
+Algeriadid a goal, and it was #19Aissa,Mandi did the goal.
+Now it is 4:1
+Algeria wins with 4:1
+
+Game 3
+This game is playing in Arena das Dunas
+Group stage:
+Belgium vs Iran
+Belgium
+#1       GK      Thibaut,Courtois
+#2       DF      Toby,Alderweireld
+#3       DF      Thomas,Vermaelen
+#4       DF      Vincent,Kompany,(c)
+#5       DF      Jan,Vertonghen
+#6       MF      Axel,Witsel
+#7       MF      Kevin,De,Bruyne
+#8       MF      Marouane,Fellaini
+#9       FW      Romelu,Lukaku
+#10      MF      Eden,Hazard
+#11      MF      Kevin,Mirallas
+#12      GK      Simon,Mignolet
+#13      GK      Sammy,Bossut
+#14      FW      Dries,Mertens
+#15      DF      Daniel,Van,Buyten
+#16      MF      Steven,Defour
+#17      FW      Divock,Origi
+#18      DF      Nicolas,Lombaerts
+#19      MF      Mousa,Dembele
+#20      MF      Adnan,Januzaj
+#21      DF      Anthony,Vanden,Borre
+#22      MF      Nacer,Chadli
+#23      DF      Laurent,Ciman
+Iran
+#1       GK      Rahman,Ahmadi
+#2       MF      Khosro,Heydari
+#3       MF      Ehsan,Hajsafi
+#4       DF      Jalal,Hosseini
+#5       DF      Amir,Hossein,Sadeghi
+#6       MF      Javad,Nekounam,(c)
+#7       MF      Masoud,Shojaei
+#8       MF      Reza,Haghighi
+#9       FW      Alireza,Jahanbakhsh
+#10      FW      Karim,Ansarifard
+#11      MF      Ghasem,Haddadifar
+#12      GK      Alireza,Haghighi
+#13      DF      Hossein,Mahini
+#14      MF      Andranik,Teymourian
+#15      DF      Pejman,Montazeri
+#16      FW      Reza,Ghoochannejhad
+#17      DF      Ahmad,Alenemeh
+#18      MF      Bakhtiar,Rahmani
+#19      DF      Hashem,Beikzadeh
+#20      DF      Steven,Beitashour
+#21      MF      Ashkan,Dejagah
+#22      GK      Daniel,Davari
+#23      DF      Mehrdad,Pouladi
+Playing...
+Belgiumdid a goal, and it was #2Thomas,Vermaelen did the goal.
+Now it is 1:0
+Irandid a goal, and it was #17Bakhtiar,Rahmani did the goal.
+Now it is 1:1
+Irandid a goal, and it was #15Reza,Ghoochannejhad did the goal.
+Now it is 1:2
+Iran wins with 2:1
+
+Game 4
+This game is playing in Arena da Amazonia
+Group stage:
+Ecuador vs Portugal
+Ecuador
+#1       GK      Maximo,Banguera
+#2       DF      Jorge,Guagua
+#3       DF      Frickson,Erazo
+#4       DF      Juan,Carlos,Paredes
+#5       MF      Renato,Ibarra
+#6       MF      Christian,Noboa
+#7       MF      Jefferson,Montero
+#8       MF      Edison,Mendez
+#9       MF      Joao,Rojas
+#10      DF      Walter,Ayovi
+#11      FW      Felipe,Caicedo
+#12      GK      Adrian,Bone
+#13      FW      Enner,Valencia
+#14      MF      Oswaldo,Minda
+#15      MF      Michael,Arroyo
+#16      MF      Antonio,Valencia,(c)
+#17      FW      Jaime,Ayovi
+#18      DF      Oscar,Bagui
+#19      MF      Luis,Saritama
+#20      MF      Fidel,Martinez
+#21      DF      Gabriel,Achilier
+#22      GK      Alexander,Dominguez
+#23      MF      Carlos,Gruezo
+Portugal
+#1       GK      Eduardo 
+#2       DF      Bruno,Alves
+#3       DF      Pepe    
+#4       MF      Miguel,Veloso
+#5       DF      Fabio,Coentrao
+#6       MF      William,Carvalho
+#7       FW      Cristiano,Ronaldo,(c)
+#8       MF      Joao,Moutinho
+#9       FW      Hugo,Almeida
+#10      MF      Vieirinha
+#11      FW      Eder    
+#12      GK      Rui,Patricio
+#13      DF      Ricardo,Costa
+#14      DF      Luis,Neto
+#15      MF      Rafa,Silva
+#16      MF      Raul,Meireles
+#17      MF      Nani    
+#18      MF      Silvestre,Varela
+#19      DF      Andre,Almeida
+#20      MF      Ruben,Amorim
+#21      DF      Joao,Pereira
+#22      GK      Beto    
+#23      FW      Helder,Postiga
+Playing...
+Ecuadordid a goal, and it was #16Jaime,Ayovi did the goal.
+Now it is 1:0
+Ecuadordid a goal, and it was #21Alexander,Dominguez did the goal.
+Now it is 2:0
+Ecuadordid a goal, and it was #1Jorge,Guagua did the goal.
+Now it is 3:0
+Portugaldid a goal, and it was #16Nani did the goal.
+Now it is 3:1
+Portugaldid a goal, and it was #3Miguel,Veloso did the goal.
+Now it is 3:2
+Ecuadordid a goal, and it was #13Oswaldo,Minda did the goal.
+Now it is 4:2
+Portugaldid a goal, and it was #4Fabio,Coentrao did the goal.
+Now it is 4:3
+Ecuador wins with 4:3
+
+June 18
+Game 1
+This game is playing in Estádio Nacional de Brasilia
+Group stage:
+Uruguay vs Honduras
+Uruguay
+#1       GK      Fernando,Muslera
+#2       DF      Diego,Lugano,(c)
+#3       DF      Diego,Godin
+#4       DF      Jorge,Fucile
+#5       MF      Walter,Gargano
+#6       MF      Alvaro,Pereira
+#7       MF      Cristian,Rodriguez
+#8       FW      Abel,Hernandez
+#9       FW      Luis,Suarez
+#10      FW      Diego,Forlan
+#11      FW      Christian,Stuani
+#12      GK      Rodrigo,Munoz
+#13      DF      Jose,Maria,Gimenez
+#14      MF      Nicolas,Lodeiro
+#15      MF      Diego,Perez
+#16      DF      Maxi,Pereira
+#17      MF      Egidio,Arevalo,Rios
+#18      MF      Gaston,Ramirez
+#19      DF      Sebastian,Coates
+#20      MF      Alvaro,Gonzalez
+#21      FW      Edinson,Cavani
+#22      DF      Martin,Caceres
+#23      GK      Martin,Silva
+Honduras
+#1       GK      Luis,Lopez
+#2       DF      Osman,Chavez
+#3       DF      Maynor,Figueroa
+#4       DF      Juan,Pablo,Montes
+#5       DF      Victor,Bernardez
+#6       DF      Juan,Carlos,Garcia
+#7       DF      Emilio,Izaguirre
+#8       MF      Wilson,Palacios
+#9       FW      Jerry,Palacios
+#10      MF      Mario,Martinez
+#11      FW      Jerry,Bengtson
+#12      MF      Edder,Delgado
+#13      FW      Carlo,Costly
+#14      MF      Oscar,Boniek,Garcia
+#15      MF      Roger,Espinoza
+#16      FW      Rony,Martinez
+#17      MF      Andy,Najar
+#18      GK      Noel,Valladares,(c)
+#19      MF      Luis,Garrido
+#20      MF      Jorge,Claros
+#21      DF      Brayan,Beckeles
+#22      GK      Donis,Escober
+#23      MF      Marvin,Chavez
+Playing...
+Hondurasdid a goal, and it was #8Jerry,Palacios did the goal.
+Now it is 0:1
+Hondurasdid a goal, and it was #19Jorge,Claros did the goal.
+Now it is 0:2
+Hondurasdid a goal, and it was #3Juan,Pablo,Montes did the goal.
+Now it is 0:3
+Honduras wins with 3:0
+
+Game 2
+This game is playing in Estádio Nacional de Brasilia
+Group stage:
+Nigeria vs Italy
+Nigeria
+#1       GK      Vincent,Enyeama
+#2       DF      Joseph,Yobo,(c)
+#3       MF      Ejike,Uzoenyi
+#4       MF      Reuben,Gabriel
+#5       DF      Efe,Ambrose
+#6       DF      Azubuike,Egwuekwe
+#7       FW      Ahmed,Musa
+#8       FW      Peter,Odemwingie
+#9       FW      Emmanuel,Emenike
+#10      MF      John,Obi,Mikel
+#11      MF      Victor,Moses
+#12      DF      Kunle,Odunlami
+#13      DF      Juwon,Oshaniwa
+#14      DF      Godfrey,Oboabona
+#15      MF      Ramon,Azeez
+#16      GK      Austin,Ejide
+#17      MF      Ogenyi,Onazi
+#18      MF      Michael,Babatunde
+#19      FW      Uche,Nwofor
+#20      FW      Michael,Uchebo
+#21      GK      Chigozie,Agbim
+#22      DF      Kenneth,Omeruo
+#23      FW      Shola,Ameobi
+Italy
+#1       GK      Gianluigi,Buffon,(c)
+#2       DF      Mattia,De,Sciglio
+#3       DF      Giorgio,Chiellini
+#4       DF      Matteo,Darmian
+#5       MF      Thiago,Motta
+#6       MF      Antonio,Candreva
+#7       DF      Ignazio,Abate
+#8       MF      Claudio,Marchisio
+#9       FW      Mario,Balotelli
+#10      FW      Antonio,Cassano
+#11      FW      Alessio,Cerci
+#12      GK      Salvatore,Sirigu
+#13      GK      Mattia,Perin
+#14      MF      Alberto,Aquilani
+#15      DF      Andrea,Barzagli
+#16      MF      Daniele,De,Rossi
+#17      FW      Ciro,Immobile
+#18      MF      Marco,Parolo
+#19      DF      Leonardo,Bonucci
+#20      DF      Gabriel,Paletta
+#21      MF      Andrea,Pirlo
+#22      FW      Lorenzo,Insigne
+#23      MF      Marco,Verratti
+Playing...
+Italydid a goal, and it was #15Daniele,De,Rossi did the goal.
+Now it is 0:1
+Italydid a goal, and it was #13Alberto,Aquilani did the goal.
+Now it is 0:2
+Italydid a goal, and it was #9Antonio,Cassano did the goal.
+Now it is 0:3
+Nigeriadid a goal, and it was #6Ahmed,Musa did the goal.
+Now it is 1:3
+Nigeriadid a goal, and it was #18Uche,Nwofor did the goal.
+Now it is 2:3
+Italydid a goal, and it was #16Ciro,Immobile did the goal.
+Now it is 2:4
+Nigeriadid a goal, and it was #3Reuben,Gabriel did the goal.
+Now it is 3:4
+Italy wins with 4:3
+
+Game 3
+This game is playing in Estádio Beira-Rio
+Group stage:
+Spain vs Australia
+Spain
+#1       GK      Iker,Casillas,(c)
+#2       DF      Raul,Albiol
+#3       DF      Gerard,Pique
+#4       MF      Javi,Martinez
+#5       DF      Juanfran
+#6       MF      Andres,Iniesta
+#7       FW      David,Villa
+#8       MF      Xavi    
+#9       FW      Fernando,Torres
+#10      MF      Cesc,Fabregas
+#11      FW      Pedro   
+#12      GK      David,de,Gea
+#13      MF      Juan,Mata
+#14      MF      Xabi,Alonso
+#15      DF      Sergio,Ramos
+#16      MF      Sergio,Busquets
+#17      MF      Koke    
+#18      DF      Jordi,Alba
+#19      FW      Diego,Costa
+#20      MF      Santi,Cazorla
+#21      MF      David,Silva
+#22      DF      Cesar,Azpilicueta
+#23      GK      Pepe,Reina
+Australia
+#1       GK      Mathew,Ryan
+#2       DF      Ivan,Franjic
+#3       DF      Jason,Davidson
+#4       FW      Tim,Cahill
+#5       MF      Mark,Milligan
+#6       DF      Matthew,Spiranovic
+#7       FW      Mathew,Leckie
+#8       DF      Bailey,Wright
+#9       FW      Adam,Taggart
+#10      MF      Ben,Halloran
+#11      MF      Tommy,Oar
+#12      GK      Mitchell,Langerak
+#13      MF      Oliver,Bozanic
+#14      MF      James,Troisi
+#15      MF      Mile,Jedinak,(c)
+#16      MF      James,Holland
+#17      MF      Matt,McKay
+#18      GK      Eugene,Galekovic
+#19      DF      Ryan,McGowan
+#20      MF      Dario,Vidosic
+#21      MF      Massimo,Luongo
+#22      DF      Alex,Wilkinson
+#23      MF      Mark,Bresciano
+Playing...
+Spaindid a goal, and it was #22Pepe,Reina did the goal.
+Now it is 1:0
+Spaindid a goal, and it was #6David,Villa did the goal.
+Now it is 2:0
+Spaindid a goal, and it was #6David,Villa did the goal.
+Now it is 3:0
+Spaindid a goal, and it was #7Xavi did the goal.
+Now it is 4:0
+Spain wins with 4:0
+
+Game 4
+This game is playing in Arena Castelao
+Group stage:
+Chile vs Greece
+Chile
+#1       GK      Claudio,Bravo,(c)
+#2       DF      Eugenio,Mena
+#3       DF      Miiko,Albornoz
+#4       MF      Mauricio,Isla
+#5       MF      Francisco,Silva
+#6       MF      Carlos,Carmona
+#7       FW      Alexis,Sanchez
+#8       MF      Arturo,Vidal
+#9       FW      Mauricio,Pinilla
+#10      MF      Jorge,Valdivia
+#11      FW      Eduardo,Vargas
+#12      GK      Cristopher,Toselli
+#13      DF      Jose,Manuel,Rojas
+#14      MF      Fabian,Orellana
+#15      MF      Jean,Beausejour
+#16      MF      Felipe,Gutierrez
+#17      DF      Gary,Medel
+#18      DF      Gonzalo,Jara
+#19      MF      Jose,Pedro,Fuenzalida
+#20      MF      Charles,Aranguiz
+#21      MF      Marcelo,Diaz
+#22      FW      Esteban,Paredes
+#23      GK      Johnny,Herrera
+Greece
+#1       GK      Orestis,Karnezis
+#2       MF      Giannis,Maniatis
+#3       DF      Giorgos,Tzavellas
+#4       DF      Kostas,Manolas
+#5       DF      Vangelis,Moras
+#6       MF      Alexandros,Tziolis
+#7       FW      Georgios,Samaras
+#8       MF      Panagiotis,Kone
+#9       FW      Kostas,Mitroglou
+#10      MF      Giorgos,Karagounis,(c)
+#11      DF      Loukas,Vyntra
+#12      GK      Panagiotis,Glykos
+#13      GK      Stefanos,Kapino
+#14      FW      Dimitris,Salpingidis
+#15      DF      Vasilis,Torosidis
+#16      MF      Lazaros,Christodoulopoulos
+#17      FW      Theofanis,Gekas
+#18      MF      Giannis,Fetfatzidis
+#19      DF      Sokratis,Papastathopoulos
+#20      DF      Jose,Holebas
+#21      MF      Kostas,Katsouranis
+#22      MF      Andreas,Samaris
+#23      MF      Panagiotis,Tachtsidis
+Playing...
+Chiledid a goal, and it was #20Marcelo,Diaz did the goal.
+Now it is 1:0
+Greecedid a goal, and it was #14Vasilis,Torosidis did the goal.
+Now it is 1:1
+Greecedid a goal, and it was #5Alexandros,Tziolis did the goal.
+Now it is 1:2
+Chiledid a goal, and it was #4Francisco,Silva did the goal.
+Now it is 2:2
+It is a draw with 2:2
+
+June 19
+Game 1
+This game is playing in Arena Castelao
+Group stage:
+Germany vs Japan
+Germany
+#1       GK      Manuel,Neuer
+#2       DF      Kevin,GroBkreutz
+#3       DF      Matthias,Ginter
+#4       DF      Benedikt,Howedes
+#5       DF      Mats,Hummels
+#6       MF      Sami,Khedira
+#7       MF      Bastian,Schweinsteiger
+#8       MF      Mesut,Ozil
+#9       MF      Andre,Schurrle
+#10      FW      Lukas,Podolski
+#11      FW      Miroslav,Klose
+#12      GK      Ron-Robert,Zieler
+#13      MF      Thomas,Muller
+#14      MF      Julian,Draxler
+#15      DF      Erik,Durm
+#16      DF      Philipp,Lahm,(c)
+#17      DF      Per,Mertesacker
+#18      MF      Toni,Kroos
+#19      MF      Mario,Gotze
+#20      DF      Jerome,Boateng
+#21      DF      Shkodran,Mustafi
+#22      GK      Roman,Weidenfeller
+#23      MF      Christoph,Kramer
+Japan
+#1       GK      Eiji,Kawashima
+#2       DF      Atsuto,Uchida
+#3       DF      Gotoku,Sakai
+#4       MF      Keisuke,Honda
+#5       DF      Yuto,Nagatomo
+#6       DF      Masato,Morishige
+#7       MF      Yasuhito,Endo
+#8       MF      Hiroshi,Kiyotake
+#9       FW      Shinji,Okazaki
+#10      MF      Shinji,Kagawa
+#11      FW      Yoichiro,Kakitani
+#12      GK      Shusaku,Nishikawa
+#13      FW      Yoshito,Okubo
+#14      MF      Toshihiro,Aoyama
+#15      DF      Yasuyuki,Konno
+#16      MF      Hotaru,Yamaguchi
+#17      MF      Makoto,Hasebe,(c)
+#18      FW      Yuya,Osako
+#19      DF      Masahiko,Inoha
+#20      FW      Manabu,Saito
+#21      DF      Hiroki,Sakai
+#22      DF      Maya,Yoshida
+#23      GK      Shuichi,Gonda
+Playing...
+Germanydid a goal, and it was #3Benedikt,Howedes did the goal.
+Now it is 1:0
+Germanydid a goal, and it was #9Lukas,Podolski did the goal.
+Now it is 2:0
+Germanydid a goal, and it was #17Toni,Kroos did the goal.
+Now it is 3:0
+Germany wins with 3:0
+
+Game 2
+This game is playing in Arena Castelao
+Group stage:
+Ivory,Coast vs France
+Ivory,Coast
+#1       GK      Boubacar,Barry
+#2       DF      Ousmane,Viera
+#3       DF      Arthur,Boka
+#4       DF      Kolo,Toure
+#5       DF      Didier,Zokora
+#6       FW      Mathis,Bolly
+#7       DF      Jean-Daniel,Akpa-Akpro
+#8       FW      Salomon,Kalou
+#9       MF      Cheick,Tiote
+#10      FW      Gervinho
+#11      FW      Didier,Drogba,(c)
+#12      FW      Wilfried,Bony
+#13      FW      Didier,Ya,Konan
+#14      MF      Ismael,Diomande
+#15      FW      Max,Gradel
+#16      GK      Sylvain,Gbohouo
+#17      DF      Serge,Aurier
+#18      DF      Constant,Djakpa
+#19      MF      Yaya,Toure
+#20      MF      Serey,Die
+#21      FW      Giovanni,Sio
+#22      DF      Sol,Bamba
+#23      GK      Sayouba,Mande
+France
+#1       GK      Hugo,Lloris,(c)
+#2       DF      Mathieu,Debuchy
+#3       DF      Patrice,Evra
+#4       DF      Raphael,Varane
+#5       DF      Mamadou,Sakho
+#6       MF      Yohan,Cabaye
+#7       MF      Remy,Cabella
+#8       MF      Mathieu,Valbuena
+#9       FW      Olivier,Giroud
+#10      FW      Karim,Benzema
+#11      MF      Antoine,Griezmann
+#12      MF      Rio,Mavuba
+#13      DF      Eliaquim,Mangala
+#14      MF      Blaise,Matuidi
+#15      DF      Bacary,Sagna
+#16      GK      Stephane,Ruffier
+#17      DF      Lucas,Digne
+#18      MF      Moussa,Sissoko
+#19      MF      Paul,Pogba
+#20      FW      Loic,Remy
+#21      DF      Laurent,Koscielny
+#22      MF      Morgan,Schneiderlin
+#23      GK      Mickael,Landreau
+Playing...
+Francedid a goal, and it was #15Stephane,Ruffier did the goal.
+Now it is 0:1
+Francedid a goal, and it was #14Bacary,Sagna did the goal.
+Now it is 0:2
+Francedid a goal, and it was #6Remy,Cabella did the goal.
+Now it is 0:3
+Ivory,Coastdid a goal, and it was #8Cheick,Tiote did the goal.
+Now it is 1:3
+Ivory,Coastdid a goal, and it was #18Yaya,Toure did the goal.
+Now it is 2:3
+Ivory,Coastdid a goal, and it was #20Giovanni,Sio did the goal.
+Now it is 3:3
+It is a draw with 3:3
+
+Game 3
+This game is playing in Estádio Nacional de Brasilia
+Group stage:
+Switzerland vs Costa,Rica
+Switzerland
+#1       GK      Diego,Benaglio
+#2       DF      Stephan,Lichtsteiner
+#3       DF      Reto,Ziegler
+#4       DF      Philippe,Senderos
+#5       DF      Steve,von,Bergen
+#6       DF      Michael,Lang
+#7       MF      Tranquillo,Barnetta
+#8       MF      Gokhan,Inler,(c)
+#9       FW      Haris,Seferovic
+#10      MF      Granit,Xhaka
+#11      MF      Valon,Behrami
+#12      GK      Yann,Sommer
+#13      DF      Ricardo,Rodriguez
+#14      MF      Valentin,Stocker
+#15      MF      Blerim,Dzemaili
+#16      MF      Gelson,Fernandes
+#17      FW      Mario,Gavranovic
+#18      FW      Admir,Mehmedi
+#19      FW      Josip,Drmic
+#20      DF      Johan,Djourou
+#21      GK      Roman,Burki
+#22      DF      Fabian,Schar
+#23      MF      Xherdan,Shaqiri
+Costa,Rica
+#1       GK      Keylor,Navas
+#2       DF      Johnny,Acosta
+#3       DF      Giancarlo,Gonzalez
+#4       DF      Michael,Umana
+#5       MF      Celso,Borges
+#6       DF      Oscar,Duarte
+#7       MF      Christian,Bola?os
+#8       DF      David,Myrie
+#9       FW      Joel,Campbell
+#10      FW      Bryan,Ruiz,(c)
+#11      MF      Michael,Barrantes
+#12      DF      Waylon,Francis
+#13      MF      Esteban,Granados
+#14      FW      Randall,Brenes
+#15      DF      Junior,Diaz
+#16      DF      Cristian,Gamboa
+#17      MF      Yeltsin,Tejeda
+#18      GK      Patrick,Pemberton
+#19      DF      Roy,Miller
+#20      MF      Diego,Calvo
+#21      FW      Marco,Urena
+#22      MF      Jose,Miguel,Cubero
+#23      GK      Daniel,Cambronero
+Playing...
+Costa,Ricadid a goal, and it was #16Yeltsin,Tejeda did the goal.
+Now it is 0:1
+Switzerlanddid a goal, and it was #22Xherdan,Shaqiri did the goal.
+Now it is 1:1
+Costa,Ricadid a goal, and it was #10Michael,Barrantes did the goal.
+Now it is 1:2
+Switzerlanddid a goal, and it was #3Philippe,Senderos did the goal.
+Now it is 2:2
+Switzerlanddid a goal, and it was #19Johan,Djourou did the goal.
+Now it is 3:2
+Switzerlanddid a goal, and it was #3Philippe,Senderos did the goal.
+Now it is 4:2
+Switzerland wins with 4:2
+
+Game 4
+This game is playing in Estádio Beira-Rio
+Group stage:
+Garner vs Russia
+Garner
+#1       GK      Stephen,Adams
+#2       DF      Samuel,Inkoom
+#3       FW      Asamoah,Gyan,(c)
+#4       DF      Daniel,Opare
+#5       MF      Michael,Essien
+#6       MF      Afriyie,Acquah
+#7       MF      Christian,Atsu
+#8       MF      Emmanuel,Agyemang-Badu
+#9       FW      Kevin-Prince,Boateng
+#10      MF      Andre,Ayew
+#11      MF      Sulley,Muntari
+#12      GK      Adam,Kwarasey
+#13      FW      Jordan,Ayew
+#14      MF      Albert,Adomah
+#15      DF      Rashid,Sumaila
+#16      GK      Fatau,Dauda
+#17      MF      Mohammed,Rabiu
+#18      FW      Majeed,Waris
+#19      DF      Jonathan,Mensah
+#20      MF      Kwadwo,Asamoah
+#21      DF      John,Boye
+#22      MF      Wakaso,Mubarak
+#23      DF      Harrison,Afful
+Russia
+#1       GK      Igor,Akinfeev
+#2       DF      Aleksei,Kozlov
+#3       DF      Georgi,Shchennikov
+#4       DF      Sergei,Ignashevich
+#5       DF      Andrei,Semyonov
+#6       FW      Maksim,Kanunnikov
+#7       MF      Igor,Denisov
+#8       MF      Denis,Glushakov
+#9       FW      Aleksandr,Kokorin
+#10      MF      Alan,Dzagoev
+#11      FW      Aleksandr,Kerzhakov
+#12      GK      Yuri,Lodygin
+#13      DF      Vladimir,Granat
+#14      DF      Vasili,Berezutski,(c)
+#15      MF      Pavel,Mogilevets
+#16      GK      Sergey,Ryzhikov
+#17      MF      Oleg,Shatov
+#18      FW      Yuri,Zhirkov
+#19      FW      Aleksandr,Samedov
+#20      MF      Viktor,Fayzulin
+#21      FW      Aleksei,Ionov
+#22      DF      Andrey,Yeshchenko
+#23      DF      Dmitri,Kombarov
+Playing...
+Russiadid a goal, and it was #15Sergey,Ryzhikov did the goal.
+Now it is 0:1
+Russiadid a goal, and it was #5Maksim,Kanunnikov did the goal.
+Now it is 0:2
+Garnerdid a goal, and it was #17Majeed,Waris did the goal.
+Now it is 1:2
+Garnerdid a goal, and it was #22Harrison,Afful did the goal.
+Now it is 2:2
+Garnerdid a goal, and it was #3Daniel,Opare did the goal.
+Now it is 3:2
+Russiadid a goal, and it was #10Aleksandr,Kerzhakov did the goal.
+Now it is 3:3
+Garnerdid a goal, and it was #11Adam,Kwarasey did the goal.
+Now it is 4:3
+Garner wins with 4:3
+
+June 20
+Game 1
+This game is playing in Arena Fonte Nova
+Group stage:
+Brazil(hosts) vs England
+Brazil(hosts)
+#1       GK      Jefferson
+#2       DF      Dani,Alves
+#3       DF      Thiago,Silva,(c)
+#4       DF      David,Luiz
+#5       MF      Fernandinho
+#6       DF      Marcelo 
+#7       FW      Hulk    
+#8       MF      Paulinho
+#9       FW      Fred    
+#10      FW      Neymar  
+#11      MF      Oscar   
+#12      GK      Julio,Cesar
+#13      DF      Dante   
+#14      DF      Maxwell 
+#15      DF      Henrique
+#16      MF      Ramires 
+#17      MF      Luiz,Gustavo
+#18      MF      Hernanes
+#19      MF      Willian 
+#20      FW      Bernard 
+#21      FW      Jo      
+#22      GK      Victor  
+#23      DF      Maicon  
+England
+#1       GK      Joe,Hart
+#2       DF      Glen,Johnson
+#3       DF      Leighton,Baines
+#4       MF      Steven,Gerrard,(c)
+#5       DF      Gary,Cahill
+#6       DF      Phil,Jagielka
+#7       MF      Jack,Wilshere
+#8       MF      Frank,Lampard
+#9       FW      Daniel,Sturridge
+#10      FW      Wayne,Rooney
+#11      FW      Danny,Welbeck
+#12      DF      Chris,Smalling
+#13      GK      Ben,Foster
+#14      MF      Jordan,Henderson
+#15      MF      Alex,Oxlade-Chamberlain
+#16      DF      Phil,Jones
+#17      MF      James,Milner
+#18      FW      Rickie,Lambert
+#19      MF      Raheem,Sterling
+#20      MF      Adam,Lallana
+#21      MF      Ross,Barkley
+#22      GK      Fraser,Forster
+#23      DF      Luke,Shaw
+Playing...
+Brazil(hosts)did a goal, and it was #0Jefferson did the goal.
+Now it is 1:0
+Englanddid a goal, and it was #21Fraser,Forster did the goal.
+Now it is 1:1
+Englanddid a goal, and it was #13Jordan,Henderson did the goal.
+Now it is 1:2
+Brazil(hosts)did a goal, and it was #18Willian did the goal.
+Now it is 2:2
+It is a draw with 2:2
+
+Game 2
+This game is playing in Arena das Dunas
+Group stage:
+Cameroon vs South,Korea
+Cameroon
+#1       GK      Lo?c,Feudjou
+#2       DF      Beno?t,Assou-Ekotto
+#3       DF      Nicolas,N'Koulou
+#4       DF      Cedric,Djeugoue
+#5       DF      Dany,Nounkeu
+#6       MF      Alex,Song
+#7       MF      Landry,N'Guemo
+#8       FW      Benjamin,Moukandjo
+#9       FW      Samuel,Eto'o,(c)
+#10      FW      Vincent,Aboubakar
+#11      MF      Jean,Makoun
+#12      DF      Henri,Bedimo
+#13      FW      Maxim,Choupo-Moting
+#14      DF      Aurelien,Chedjou
+#15      FW      Pierre,Webo
+#16      GK      Charles,Itandje
+#17      MF      Stephane,Mbia
+#18      MF      Eyong,Enoh
+#19      FW      Fabrice,Olinga
+#20      MF      Edgar,Salli
+#21      MF      Jo?l,Matip
+#22      DF      Allan,Nyom
+#23      GK      Sammy,N'Djock
+South,Korea
+#1       GK      Jung,Sung-ryong
+#2       DF      Kim,Chang-soo
+#3       DF      Yun,Suk-young
+#4       DF      Kwak,Tae-hwi
+#5       DF      Kim,Young-gwon
+#6       DF      Hwang,Seok-ho
+#7       MF      Kim,Bo-kyung
+#8       MF      Ha,Dae-sung
+#9       FW      Son,Heung-min
+#10      FW      Park,Chu-young
+#11      FW      Lee,Keun-ho
+#12      DF      Lee,Yong
+#13      MF      Koo,Ja-cheol,(c)
+#14      MF      Han,Kook-young
+#15      MF      Park,Jong-woo
+#16      MF      Ki,Sung-yueng
+#17      MF      Lee,Chung-yong
+#18      FW      Kim,Shin-wook
+#19      FW      Ji,Dong-won
+#20      DF      Hong,Jeong-ho
+#21      GK      Kim,Seung-gyu
+#22      DF      Park,Joo-ho
+#23      GK      Lee,Bum-young
+Playing...
+Cameroondid a goal, and it was #20Jo?l,Matip did the goal.
+Now it is 1:0
+Cameroondid a goal, and it was #10Jean,Makoun did the goal.
+Now it is 2:0
+South,Koreadid a goal, and it was #10Lee,Keun-ho did the goal.
+Now it is 2:1
+Cameroondid a goal, and it was #16Stephane,Mbia did the goal.
+Now it is 3:1
+Cameroondid a goal, and it was #12Maxim,Choupo-Moting did the goal.
+Now it is 4:1
+Cameroon wins with 4:1
+
+Game 3
+This game is playing in Arena de Sao Paulo
+Group stage:
+Argentina vs Holland
+Argentina
+#1       GK      Sergio,Romero
+#2       DF      Ezequiel,Garay
+#3       DF      Hugo,Campagnaro
+#4       DF      Pablo,Zabaleta
+#5       MF      Fernando,Gago
+#6       MF      Lucas,Biglia
+#7       MF      Angel,Di,Maria
+#8       MF      Enzo,Perez
+#9       FW      Gonzalo,Higuain
+#10      FW      Lionel,Messi,(c)
+#11      MF      Maxi,Rodriguez
+#12      GK      Agustin,Orion
+#13      MF      Augusto,Fernandez
+#14      MF      Javier,Mascherano
+#15      DF      Martin,Demichelis
+#16      DF      Marcos,Rojo
+#17      DF      Federico,Fernandez
+#18      FW      Rodrigo,Palacio
+#19      MF      Ricardo,Alvarez
+#20      FW      Sergio,Aguero
+#21      GK      Mariano,Andujar
+#22      FW      Ezequiel,Lavezzi
+#23      DF      Jose,Maria,Basanta
+Holland
+#1       GK      Jasper,Cillessen
+#2       DF      Ron,Vlaar
+#3       DF      Stefan,de,Vrij
+#4       DF      Bruno,Martins,Indi
+#5       DF      Daley,Blind
+#6       MF      Nigel,de,Jong
+#7       DF      Daryl,Janmaat
+#8       MF      Jonathan,de,Guzman
+#9       FW      Robin,van,Persie,(c)
+#10      MF      Wesley,Sneijder
+#11      FW      Arjen,Robben
+#12      DF      Paul,Verhaegh
+#13      DF      Jo?l,Veltman
+#14      DF      Terence,Kongolo
+#15      FW      Dirk,Kuyt
+#16      MF      Jordy,Clasie
+#17      FW      Jeremain,Lens
+#18      MF      Leroy,Fer
+#19      FW      Klaas-Jan,Huntelaar
+#20      MF      Georginio,Wijnaldum
+#21      FW      Memphis,Depay
+#22      GK      Michel,Vorm
+#23      GK      Tim,Krul
+Playing...
+Argentinadid a goal, and it was #5Lucas,Biglia did the goal.
+Now it is 1:0
+Hollanddid a goal, and it was #0Jasper,Cillessen did the goal.
+Now it is 1:1
+Argentinadid a goal, and it was #4Fernando,Gago did the goal.
+Now it is 2:1
+Argentinadid a goal, and it was #22Jose,Maria,Basanta did the goal.
+Now it is 3:1
+Hollanddid a goal, and it was #9Wesley,Sneijder did the goal.
+Now it is 3:2
+Hollanddid a goal, and it was #14Dirk,Kuyt did the goal.
+Now it is 3:3
+Argentinadid a goal, and it was #16Federico,Fernandez did the goal.
+Now it is 4:3
+Argentina wins with 4:3
+
+Game 4
+This game is playing in Maracan
+Group stage:
+Croatia vs Mexico
+Croatia
+#1       GK      Stipe,Pletikosa
+#2       DF      ?ime,Vrsaljko
+#3       DF      Danijel,Pranji?
+#4       MF      Ivan,Peri?i?
+#5       DF      Vedran,?orluka
+#6       DF      Dejan,Lovren
+#7       MF      Ivan,Rakiti?
+#8       MF      Ognjen,Vukojevi?
+#9       FW      Nikica,Jelavi?
+#10      MF      Luka,Modri?
+#11      DF      Darijo,Srna,(c)
+#12      GK      Oliver,Zelenika
+#13      DF      Gordon,Schildenfeld
+#14      MF      Marcelo,Brozovi?
+#15      MF      Milan,Badelj
+#16      FW      Ante,Rebi?
+#17      FW      Mario,Mand?uki?
+#18      FW      Ivica,Oli?
+#19      MF      Sammir  
+#20      MF      Mateo,Kova?i?
+#21      DF      Domagoj,Vida
+#22      FW      Eduardo 
+#23      GK      Danijel,Suba?i?
+Mexico
+#1       GK      Jose,de,Jesus,Corona
+#2       DF      Francisco,Javier,Rodriguez
+#3       DF      Carlos,Salcido
+#4       DF      Rafael,Marquez,(c)
+#5       DF      Diego,Reyes
+#6       MF      Hector,Herrera
+#7       DF      Miguel,Layun
+#8       MF      Marco,Fabian
+#9       FW      Raul,Jimenez
+#10      FW      Giovani,dos,Santos
+#11      FW      Alan,Pulido
+#12      GK      Alfredo,Talavera
+#13      GK      Guillermo,Ochoa
+#14      FW      Javier,Hernandez
+#15      DF      Hector,Moreno
+#16      DF      Miguel,Angel,Ponce
+#17      MF      Isaac,Brizuela
+#18      DF      Andres,Guardado
+#19      FW      Oribe,Peralta
+#20      MF      Javier,Aquino
+#21      MF      Carlos,Pena
+#22      DF      Paul,Aguilar
+#23      MF      Jose,Juan,Vazquez
+Playing...
+Mexicodid a goal, and it was #1Francisco,Javier,Rodriguez did the goal.
+Now it is 0:1
+Croatiadid a goal, and it was #14Milan,Badelj did the goal.
+Now it is 1:1
+Croatiadid a goal, and it was #0Stipe,Pletikosa did the goal.
+Now it is 2:1
+Croatiadid a goal, and it was #1?ime,Vrsaljko did the goal.
+Now it is 3:1
+Croatia wins with 3:1
+
+June 21
+Game 1
+This game is playing in Arena Pantanal
+Group stage:
+Columbia vs Bosnia,and,Herzegovina
+Columbia
+#1       GK      David,Ospina
+#2       DF      Cristian,Zapata
+#3       DF      Mario,Yepes,(c)
+#4       DF      Santiago,Arias
+#5       MF      Carlos,Carbonero
+#6       MF      Carlos,Sanchez
+#7       DF      Pablo,Armero
+#8       MF      Abel,Aguilar
+#9       FW      Teofilo,Gutierrez
+#10      MF      James,Rodriguez
+#11      MF      Juan,Guillermo,Cuadrado
+#12      GK      Camilo,Vargas
+#13      MF      Fredy,Guarin
+#14      FW      Victor,Ibarbo
+#15      MF      Alexander,Mejia
+#16      DF      Eder,Alvarez,Balanta
+#17      FW      Carlos,Bacca
+#18      DF      Juan,Camilo,Zuniga
+#19      FW      Adrian,Ramos
+#20      MF      Juan,Fernando,Quintero
+#21      FW      Jackson,Martinez
+#22      GK      Faryd,Mondragon
+#23      DF      Carlos,Valdes
+Bosnia,and,Herzegovina
+#1       GK      Asmir,Begovic
+#2       DF      Avdija,Vrsajevic
+#3       DF      Ermin,Bicakcic
+#4       DF      Emir,Spahic,(c)
+#5       DF      Sead,Kolasinac
+#6       DF      Ognjen,Vranjes
+#7       DF      Muhamed,Besic
+#8       MF      Miralem,Pjanic
+#9       FW      Vedad,Ibisevic
+#10      MF      Zvjezdan,Misimovic
+#11      FW      Edin,Dzeko
+#12      GK      Jasmin,Fejzic
+#13      DF      Mensur,Mujdza
+#14      MF      Tino-Sven,Susic
+#15      DF      Toni,Sunjic
+#16      MF      Senad,Lulic
+#17      MF      Senijad,Ibricic
+#18      MF      Haris,Medunjanin
+#19      FW      Edin,Visca
+#20      MF      Izet,Hajrovic
+#21      MF      Anel,Hadzic
+#22      GK      Asmir,Avdukic
+#23      MF      Sejad,Salihovic
+Playing...
+Bosnia,and,Herzegovinadid a goal, and it was #1Avdija,Vrsajevic did the goal.
+Now it is 0:1
+Bosnia,and,Herzegovinadid a goal, and it was #17Haris,Medunjanin did the goal.
+Now it is 0:2
+Bosnia,and,Herzegovinadid a goal, and it was #8Vedad,Ibisevic did the goal.
+Now it is 0:3
+Columbiadid a goal, and it was #10Juan,Guillermo,Cuadrado did the goal.
+Now it is 1:3
+Columbiadid a goal, and it was #13Victor,Ibarbo did the goal.
+Now it is 2:3
+Columbiadid a goal, and it was #1Cristian,Zapata did the goal.
+Now it is 3:3
+Columbiadid a goal, and it was #2Mario,Yepes,(c) did the goal.
+Now it is 4:3
+Columbia wins with 4:3
+
+Game 2
+This game is playing in Arena das Dunas
+Group stage:
+Algeria vs America
+Algeria
+#1       GK      Cedric,Si,Mohamed
+#2       DF      Madjid,Bougherra,(c)
+#3       DF      Faouzi,Ghoulam
+#4       DF      Essaid,Belkalem
+#5       DF      Rafik,Halliche
+#6       DF      Djamel,Mesbah
+#7       MF      Hassan,Yebda
+#8       MF      Medhi,Lacen
+#9       FW      Nabil,Ghilas
+#10      MF      Sofiane,Feghouli
+#11      MF      Yacine,Brahimi
+#12      DF      Carl,Medjani
+#13      FW      Islam,Slimani
+#14      MF      Nabil,Bentaleb
+#15      FW      El,Arbi,Hillel,Soudani
+#16      GK      Mohamed,Zemmamouche
+#17      DF      Liassine,Cadamuro-Benta?ba
+#18      MF      Abdelmoumene,Djabou
+#19      MF      Saphir,Taider
+#20      DF      Aissa,Mandi
+#21      MF      Riyad,Mahrez
+#22      MF      Mehdi,Mostefa
+#23      GK      Rais,M'Bolhi
+America
+#1       GK      Tim,Howard
+#2       DF      DeAndre,Yedlin
+#3       DF      Omar,Gonzalez
+#4       MF      Michael,Bradley
+#5       DF      Matt,Besler
+#6       DF      John,Brooks
+#7       DF      DaMarcus,Beasley
+#8       FW      Clint,Dempsey,(c)
+#9       FW      Aron,Johannsson
+#10      MF      Mix,Diskerud
+#11      MF      Alejandro,Bedoya
+#12      GK      Brad,Guzan
+#13      MF      Jermaine,Jones
+#14      MF      Brad,Davis
+#15      MF      Kyle,Beckerman
+#16      MF      Julian,Green
+#17      FW      Jozy,Altidore
+#18      FW      Chris,Wondolowski
+#19      MF      Graham,Zusi
+#20      DF      Geoff,Cameron
+#21      DF      Timothy,Chandler
+#22      GK      Nick,Rimando
+#23      DF      Fabian,Johnson
+Playing...
+Algeriadid a goal, and it was #5Djamel,Mesbah did the goal.
+Now it is 1:0
+Americadid a goal, and it was #2Omar,Gonzalez did the goal.
+Now it is 1:1
+Algeriadid a goal, and it was #7Medhi,Lacen did the goal.
+Now it is 2:1
+Americadid a goal, and it was #16Jozy,Altidore did the goal.
+Now it is 2:2
+Americadid a goal, and it was #2Omar,Gonzalez did the goal.
+Now it is 2:3
+America wins with 3:2
+
+Game 3
+This game is playing in Arena Pernambuco
+Group stage:
+Belgium vs Portugal
+Belgium
+#1       GK      Thibaut,Courtois
+#2       DF      Toby,Alderweireld
+#3       DF      Thomas,Vermaelen
+#4       DF      Vincent,Kompany,(c)
+#5       DF      Jan,Vertonghen
+#6       MF      Axel,Witsel
+#7       MF      Kevin,De,Bruyne
+#8       MF      Marouane,Fellaini
+#9       FW      Romelu,Lukaku
+#10      MF      Eden,Hazard
+#11      MF      Kevin,Mirallas
+#12      GK      Simon,Mignolet
+#13      GK      Sammy,Bossut
+#14      FW      Dries,Mertens
+#15      DF      Daniel,Van,Buyten
+#16      MF      Steven,Defour
+#17      FW      Divock,Origi
+#18      DF      Nicolas,Lombaerts
+#19      MF      Mousa,Dembele
+#20      MF      Adnan,Januzaj
+#21      DF      Anthony,Vanden,Borre
+#22      MF      Nacer,Chadli
+#23      DF      Laurent,Ciman
+Portugal
+#1       GK      Eduardo 
+#2       DF      Bruno,Alves
+#3       DF      Pepe    
+#4       MF      Miguel,Veloso
+#5       DF      Fabio,Coentrao
+#6       MF      William,Carvalho
+#7       FW      Cristiano,Ronaldo,(c)
+#8       MF      Joao,Moutinho
+#9       FW      Hugo,Almeida
+#10      MF      Vieirinha
+#11      FW      Eder    
+#12      GK      Rui,Patricio
+#13      DF      Ricardo,Costa
+#14      DF      Luis,Neto
+#15      MF      Rafa,Silva
+#16      MF      Raul,Meireles
+#17      MF      Nani    
+#18      MF      Silvestre,Varela
+#19      DF      Andre,Almeida
+#20      MF      Ruben,Amorim
+#21      DF      Joao,Pereira
+#22      GK      Beto    
+#23      FW      Helder,Postiga
+Playing...
+Portugaldid a goal, and it was #15Raul,Meireles did the goal.
+Now it is 0:1
+Belgiumdid a goal, and it was #4Jan,Vertonghen did the goal.
+Now it is 1:1
+Portugaldid a goal, and it was #20Joao,Pereira did the goal.
+Now it is 1:2
+Portugal wins with 2:1
+
+Game 4
+This game is playing in Arena Castelao
+Group stage:
+Ecuador vs Iran
+Ecuador
+#1       GK      Maximo,Banguera
+#2       DF      Jorge,Guagua
+#3       DF      Frickson,Erazo
+#4       DF      Juan,Carlos,Paredes
+#5       MF      Renato,Ibarra
+#6       MF      Christian,Noboa
+#7       MF      Jefferson,Montero
+#8       MF      Edison,Mendez
+#9       MF      Joao,Rojas
+#10      DF      Walter,Ayovi
+#11      FW      Felipe,Caicedo
+#12      GK      Adrian,Bone
+#13      FW      Enner,Valencia
+#14      MF      Oswaldo,Minda
+#15      MF      Michael,Arroyo
+#16      MF      Antonio,Valencia,(c)
+#17      FW      Jaime,Ayovi
+#18      DF      Oscar,Bagui
+#19      MF      Luis,Saritama
+#20      MF      Fidel,Martinez
+#21      DF      Gabriel,Achilier
+#22      GK      Alexander,Dominguez
+#23      MF      Carlos,Gruezo
+Iran
+#1       GK      Rahman,Ahmadi
+#2       MF      Khosro,Heydari
+#3       MF      Ehsan,Hajsafi
+#4       DF      Jalal,Hosseini
+#5       DF      Amir,Hossein,Sadeghi
+#6       MF      Javad,Nekounam,(c)
+#7       MF      Masoud,Shojaei
+#8       MF      Reza,Haghighi
+#9       FW      Alireza,Jahanbakhsh
+#10      FW      Karim,Ansarifard
+#11      MF      Ghasem,Haddadifar
+#12      GK      Alireza,Haghighi
+#13      DF      Hossein,Mahini
+#14      MF      Andranik,Teymourian
+#15      DF      Pejman,Montazeri
+#16      FW      Reza,Ghoochannejhad
+#17      DF      Ahmad,Alenemeh
+#18      MF      Bakhtiar,Rahmani
+#19      DF      Hashem,Beikzadeh
+#20      DF      Steven,Beitashour
+#21      MF      Ashkan,Dejagah
+#22      GK      Daniel,Davari
+#23      DF      Mehrdad,Pouladi
+Playing...
+Irandid a goal, and it was #6Masoud,Shojaei did the goal.
+Now it is 0:1
+Ecuadordid a goal, and it was #7Edison,Mendez did the goal.
+Now it is 1:1
+Ecuadordid a goal, and it was #15Antonio,Valencia,(c) did the goal.
+Now it is 2:1
+Ecuadordid a goal, and it was #19Fidel,Martinez did the goal.
+Now it is 3:1
+Irandid a goal, and it was #1Khosro,Heydari did the goal.
+Now it is 3:2
+Ecuador wins with 3:2
+
+June 22
+Game 1
+This game is playing in Estádio Beira-Rio
+Group stage:
+Uruguay vs Italy
+Uruguay
+#1       GK      Fernando,Muslera
+#2       DF      Diego,Lugano,(c)
+#3       DF      Diego,Godin
+#4       DF      Jorge,Fucile
+#5       MF      Walter,Gargano
+#6       MF      Alvaro,Pereira
+#7       MF      Cristian,Rodriguez
+#8       FW      Abel,Hernandez
+#9       FW      Luis,Suarez
+#10      FW      Diego,Forlan
+#11      FW      Christian,Stuani
+#12      GK      Rodrigo,Munoz
+#13      DF      Jose,Maria,Gimenez
+#14      MF      Nicolas,Lodeiro
+#15      MF      Diego,Perez
+#16      DF      Maxi,Pereira
+#17      MF      Egidio,Arevalo,Rios
+#18      MF      Gaston,Ramirez
+#19      DF      Sebastian,Coates
+#20      MF      Alvaro,Gonzalez
+#21      FW      Edinson,Cavani
+#22      DF      Martin,Caceres
+#23      GK      Martin,Silva
+Italy
+#1       GK      Gianluigi,Buffon,(c)
+#2       DF      Mattia,De,Sciglio
+#3       DF      Giorgio,Chiellini
+#4       DF      Matteo,Darmian
+#5       MF      Thiago,Motta
+#6       MF      Antonio,Candreva
+#7       DF      Ignazio,Abate
+#8       MF      Claudio,Marchisio
+#9       FW      Mario,Balotelli
+#10      FW      Antonio,Cassano
+#11      FW      Alessio,Cerci
+#12      GK      Salvatore,Sirigu
+#13      GK      Mattia,Perin
+#14      MF      Alberto,Aquilani
+#15      DF      Andrea,Barzagli
+#16      MF      Daniele,De,Rossi
+#17      FW      Ciro,Immobile
+#18      MF      Marco,Parolo
+#19      DF      Leonardo,Bonucci
+#20      DF      Gabriel,Paletta
+#21      MF      Andrea,Pirlo
+#22      FW      Lorenzo,Insigne
+#23      MF      Marco,Verratti
+Playing...
+Italydid a goal, and it was #0Gianluigi,Buffon,(c) did the goal.
+Now it is 0:1
+Uruguaydid a goal, and it was #13Nicolas,Lodeiro did the goal.
+Now it is 1:1
+Uruguaydid a goal, and it was #15Maxi,Pereira did the goal.
+Now it is 2:1
+Italydid a goal, and it was #13Alberto,Aquilani did the goal.
+Now it is 2:2
+It is a draw with 2:2
+
+Game 2
+This game is playing in Arena Fonte Nova
+Group stage:
+Nigeria vs Honduras
+Nigeria
+#1       GK      Vincent,Enyeama
+#2       DF      Joseph,Yobo,(c)
+#3       MF      Ejike,Uzoenyi
+#4       MF      Reuben,Gabriel
+#5       DF      Efe,Ambrose
+#6       DF      Azubuike,Egwuekwe
+#7       FW      Ahmed,Musa
+#8       FW      Peter,Odemwingie
+#9       FW      Emmanuel,Emenike
+#10      MF      John,Obi,Mikel
+#11      MF      Victor,Moses
+#12      DF      Kunle,Odunlami
+#13      DF      Juwon,Oshaniwa
+#14      DF      Godfrey,Oboabona
+#15      MF      Ramon,Azeez
+#16      GK      Austin,Ejide
+#17      MF      Ogenyi,Onazi
+#18      MF      Michael,Babatunde
+#19      FW      Uche,Nwofor
+#20      FW      Michael,Uchebo
+#21      GK      Chigozie,Agbim
+#22      DF      Kenneth,Omeruo
+#23      FW      Shola,Ameobi
+Honduras
+#1       GK      Luis,Lopez
+#2       DF      Osman,Chavez
+#3       DF      Maynor,Figueroa
+#4       DF      Juan,Pablo,Montes
+#5       DF      Victor,Bernardez
+#6       DF      Juan,Carlos,Garcia
+#7       DF      Emilio,Izaguirre
+#8       MF      Wilson,Palacios
+#9       FW      Jerry,Palacios
+#10      MF      Mario,Martinez
+#11      FW      Jerry,Bengtson
+#12      MF      Edder,Delgado
+#13      FW      Carlo,Costly
+#14      MF      Oscar,Boniek,Garcia
+#15      MF      Roger,Espinoza
+#16      FW      Rony,Martinez
+#17      MF      Andy,Najar
+#18      GK      Noel,Valladares,(c)
+#19      MF      Luis,Garrido
+#20      MF      Jorge,Claros
+#21      DF      Brayan,Beckeles
+#22      GK      Donis,Escober
+#23      MF      Marvin,Chavez
+Playing...
+Hondurasdid a goal, and it was #10Jerry,Bengtson did the goal.
+Now it is 0:1
+Nigeriadid a goal, and it was #1Joseph,Yobo,(c) did the goal.
+Now it is 1:1
+Nigeriadid a goal, and it was #10Victor,Moses did the goal.
+Now it is 2:1
+Nigeriadid a goal, and it was #3Reuben,Gabriel did the goal.
+Now it is 3:1
+Nigeriadid a goal, and it was #17Michael,Babatunde did the goal.
+Now it is 4:1
+Nigeria wins with 4:1
+
+Game 3
+This game is playing in Estádio Beira-Rio
+Group stage:
+Spain vs Greece
+Spain
+#1       GK      Iker,Casillas,(c)
+#2       DF      Raul,Albiol
+#3       DF      Gerard,Pique
+#4       MF      Javi,Martinez
+#5       DF      Juanfran
+#6       MF      Andres,Iniesta
+#7       FW      David,Villa
+#8       MF      Xavi    
+#9       FW      Fernando,Torres
+#10      MF      Cesc,Fabregas
+#11      FW      Pedro   
+#12      GK      David,de,Gea
+#13      MF      Juan,Mata
+#14      MF      Xabi,Alonso
+#15      DF      Sergio,Ramos
+#16      MF      Sergio,Busquets
+#17      MF      Koke    
+#18      DF      Jordi,Alba
+#19      FW      Diego,Costa
+#20      MF      Santi,Cazorla
+#21      MF      David,Silva
+#22      DF      Cesar,Azpilicueta
+#23      GK      Pepe,Reina
+Greece
+#1       GK      Orestis,Karnezis
+#2       MF      Giannis,Maniatis
+#3       DF      Giorgos,Tzavellas
+#4       DF      Kostas,Manolas
+#5       DF      Vangelis,Moras
+#6       MF      Alexandros,Tziolis
+#7       FW      Georgios,Samaras
+#8       MF      Panagiotis,Kone
+#9       FW      Kostas,Mitroglou
+#10      MF      Giorgos,Karagounis,(c)
+#11      DF      Loukas,Vyntra
+#12      GK      Panagiotis,Glykos
+#13      GK      Stefanos,Kapino
+#14      FW      Dimitris,Salpingidis
+#15      DF      Vasilis,Torosidis
+#16      MF      Lazaros,Christodoulopoulos
+#17      FW      Theofanis,Gekas
+#18      MF      Giannis,Fetfatzidis
+#19      DF      Sokratis,Papastathopoulos
+#20      DF      Jose,Holebas
+#21      MF      Kostas,Katsouranis
+#22      MF      Andreas,Samaris
+#23      MF      Panagiotis,Tachtsidis
+Playing...
+Greecedid a goal, and it was #1Giannis,Maniatis did the goal.
+Now it is 0:1
+Spaindid a goal, and it was #2Gerard,Pique did the goal.
+Now it is 1:1
+Spaindid a goal, and it was #10Pedro did the goal.
+Now it is 2:1
+Spain wins with 2:1
+
+Game 4
+This game is playing in Arena Fonte Nova
+Group stage:
+Chile vs Australia
+Chile
+#1       GK      Claudio,Bravo,(c)
+#2       DF      Eugenio,Mena
+#3       DF      Miiko,Albornoz
+#4       MF      Mauricio,Isla
+#5       MF      Francisco,Silva
+#6       MF      Carlos,Carmona
+#7       FW      Alexis,Sanchez
+#8       MF      Arturo,Vidal
+#9       FW      Mauricio,Pinilla
+#10      MF      Jorge,Valdivia
+#11      FW      Eduardo,Vargas
+#12      GK      Cristopher,Toselli
+#13      DF      Jose,Manuel,Rojas
+#14      MF      Fabian,Orellana
+#15      MF      Jean,Beausejour
+#16      MF      Felipe,Gutierrez
+#17      DF      Gary,Medel
+#18      DF      Gonzalo,Jara
+#19      MF      Jose,Pedro,Fuenzalida
+#20      MF      Charles,Aranguiz
+#21      MF      Marcelo,Diaz
+#22      FW      Esteban,Paredes
+#23      GK      Johnny,Herrera
+Australia
+#1       GK      Mathew,Ryan
+#2       DF      Ivan,Franjic
+#3       DF      Jason,Davidson
+#4       FW      Tim,Cahill
+#5       MF      Mark,Milligan
+#6       DF      Matthew,Spiranovic
+#7       FW      Mathew,Leckie
+#8       DF      Bailey,Wright
+#9       FW      Adam,Taggart
+#10      MF      Ben,Halloran
+#11      MF      Tommy,Oar
+#12      GK      Mitchell,Langerak
+#13      MF      Oliver,Bozanic
+#14      MF      James,Troisi
+#15      MF      Mile,Jedinak,(c)
+#16      MF      James,Holland
+#17      MF      Matt,McKay
+#18      GK      Eugene,Galekovic
+#19      DF      Ryan,McGowan
+#20      MF      Dario,Vidosic
+#21      MF      Massimo,Luongo
+#22      DF      Alex,Wilkinson
+#23      MF      Mark,Bresciano
+Playing...
+Chiledid a goal, and it was #20Marcelo,Diaz did the goal.
+Now it is 1:0
+Chile wins with 1:0
+
+June 23
+Game 1
+This game is playing in Estádio Beira-Rio
+Group stage:
+Germany vs France
+Germany
+#1       GK      Manuel,Neuer
+#2       DF      Kevin,GroBkreutz
+#3       DF      Matthias,Ginter
+#4       DF      Benedikt,Howedes
+#5       DF      Mats,Hummels
+#6       MF      Sami,Khedira
+#7       MF      Bastian,Schweinsteiger
+#8       MF      Mesut,Ozil
+#9       MF      Andre,Schurrle
+#10      FW      Lukas,Podolski
+#11      FW      Miroslav,Klose
+#12      GK      Ron-Robert,Zieler
+#13      MF      Thomas,Muller
+#14      MF      Julian,Draxler
+#15      DF      Erik,Durm
+#16      DF      Philipp,Lahm,(c)
+#17      DF      Per,Mertesacker
+#18      MF      Toni,Kroos
+#19      MF      Mario,Gotze
+#20      DF      Jerome,Boateng
+#21      DF      Shkodran,Mustafi
+#22      GK      Roman,Weidenfeller
+#23      MF      Christoph,Kramer
+France
+#1       GK      Hugo,Lloris,(c)
+#2       DF      Mathieu,Debuchy
+#3       DF      Patrice,Evra
+#4       DF      Raphael,Varane
+#5       DF      Mamadou,Sakho
+#6       MF      Yohan,Cabaye
+#7       MF      Remy,Cabella
+#8       MF      Mathieu,Valbuena
+#9       FW      Olivier,Giroud
+#10      FW      Karim,Benzema
+#11      MF      Antoine,Griezmann
+#12      MF      Rio,Mavuba
+#13      DF      Eliaquim,Mangala
+#14      MF      Blaise,Matuidi
+#15      DF      Bacary,Sagna
+#16      GK      Stephane,Ruffier
+#17      DF      Lucas,Digne
+#18      MF      Moussa,Sissoko
+#19      MF      Paul,Pogba
+#20      FW      Loic,Remy
+#21      DF      Laurent,Koscielny
+#22      MF      Morgan,Schneiderlin
+#23      GK      Mickael,Landreau
+Playing...
+Francedid a goal, and it was #12Eliaquim,Mangala did the goal.
+Now it is 0:1
+Germanydid a goal, and it was #1Kevin,GroBkreutz did the goal.
+Now it is 1:1
+Germanydid a goal, and it was #11Ron-Robert,Zieler did the goal.
+Now it is 2:1
+Germanydid a goal, and it was #9Lukas,Podolski did the goal.
+Now it is 3:1
+Germanydid a goal, and it was #13Julian,Draxler did the goal.
+Now it is 4:1
+Germany wins with 4:1
+
+Game 2
+This game is playing in Mineirao
+Group stage:
+Ivory,Coast vs Japan
+Ivory,Coast
+#1       GK      Boubacar,Barry
+#2       DF      Ousmane,Viera
+#3       DF      Arthur,Boka
+#4       DF      Kolo,Toure
+#5       DF      Didier,Zokora
+#6       FW      Mathis,Bolly
+#7       DF      Jean-Daniel,Akpa-Akpro
+#8       FW      Salomon,Kalou
+#9       MF      Cheick,Tiote
+#10      FW      Gervinho
+#11      FW      Didier,Drogba,(c)
+#12      FW      Wilfried,Bony
+#13      FW      Didier,Ya,Konan
+#14      MF      Ismael,Diomande
+#15      FW      Max,Gradel
+#16      GK      Sylvain,Gbohouo
+#17      DF      Serge,Aurier
+#18      DF      Constant,Djakpa
+#19      MF      Yaya,Toure
+#20      MF      Serey,Die
+#21      FW      Giovanni,Sio
+#22      DF      Sol,Bamba
+#23      GK      Sayouba,Mande
+Japan
+#1       GK      Eiji,Kawashima
+#2       DF      Atsuto,Uchida
+#3       DF      Gotoku,Sakai
+#4       MF      Keisuke,Honda
+#5       DF      Yuto,Nagatomo
+#6       DF      Masato,Morishige
+#7       MF      Yasuhito,Endo
+#8       MF      Hiroshi,Kiyotake
+#9       FW      Shinji,Okazaki
+#10      MF      Shinji,Kagawa
+#11      FW      Yoichiro,Kakitani
+#12      GK      Shusaku,Nishikawa
+#13      FW      Yoshito,Okubo
+#14      MF      Toshihiro,Aoyama
+#15      DF      Yasuyuki,Konno
+#16      MF      Hotaru,Yamaguchi
+#17      MF      Makoto,Hasebe,(c)
+#18      FW      Yuya,Osako
+#19      DF      Masahiko,Inoha
+#20      FW      Manabu,Saito
+#21      DF      Hiroki,Sakai
+#22      DF      Maya,Yoshida
+#23      GK      Shuichi,Gonda
+Playing...
+Ivory,Coastdid a goal, and it was #19Serey,Die did the goal.
+Now it is 1:0
+Ivory,Coastdid a goal, and it was #7Salomon,Kalou did the goal.
+Now it is 2:0
+Japandid a goal, and it was #21Maya,Yoshida did the goal.
+Now it is 2:1
+Ivory,Coastdid a goal, and it was #5Mathis,Bolly did the goal.
+Now it is 3:1
+Japandid a goal, and it was #13Toshihiro,Aoyama did the goal.
+Now it is 3:2
+Japandid a goal, and it was #22Shuichi,Gonda did the goal.
+Now it is 3:3
+Japandid a goal, and it was #7Hiroshi,Kiyotake did the goal.
+Now it is 3:4
+Japan wins with 4:3
+
+Game 3
+This game is playing in Arena de Sao Paulo
+Group stage:
+Switzerland vs Russia
+Switzerland
+#1       GK      Diego,Benaglio
+#2       DF      Stephan,Lichtsteiner
+#3       DF      Reto,Ziegler
+#4       DF      Philippe,Senderos
+#5       DF      Steve,von,Bergen
+#6       DF      Michael,Lang
+#7       MF      Tranquillo,Barnetta
+#8       MF      Gokhan,Inler,(c)
+#9       FW      Haris,Seferovic
+#10      MF      Granit,Xhaka
+#11      MF      Valon,Behrami
+#12      GK      Yann,Sommer
+#13      DF      Ricardo,Rodriguez
+#14      MF      Valentin,Stocker
+#15      MF      Blerim,Dzemaili
+#16      MF      Gelson,Fernandes
+#17      FW      Mario,Gavranovic
+#18      FW      Admir,Mehmedi
+#19      FW      Josip,Drmic
+#20      DF      Johan,Djourou
+#21      GK      Roman,Burki
+#22      DF      Fabian,Schar
+#23      MF      Xherdan,Shaqiri
+Russia
+#1       GK      Igor,Akinfeev
+#2       DF      Aleksei,Kozlov
+#3       DF      Georgi,Shchennikov
+#4       DF      Sergei,Ignashevich
+#5       DF      Andrei,Semyonov
+#6       FW      Maksim,Kanunnikov
+#7       MF      Igor,Denisov
+#8       MF      Denis,Glushakov
+#9       FW      Aleksandr,Kokorin
+#10      MF      Alan,Dzagoev
+#11      FW      Aleksandr,Kerzhakov
+#12      GK      Yuri,Lodygin
+#13      DF      Vladimir,Granat
+#14      DF      Vasili,Berezutski,(c)
+#15      MF      Pavel,Mogilevets
+#16      GK      Sergey,Ryzhikov
+#17      MF      Oleg,Shatov
+#18      FW      Yuri,Zhirkov
+#19      FW      Aleksandr,Samedov
+#20      MF      Viktor,Fayzulin
+#21      FW      Aleksei,Ionov
+#22      DF      Andrey,Yeshchenko
+#23      DF      Dmitri,Kombarov
+Playing...
+Russiadid a goal, and it was #1Aleksei,Kozlov did the goal.
+Now it is 0:1
+Russiadid a goal, and it was #17Yuri,Zhirkov did the goal.
+Now it is 0:2
+Switzerlanddid a goal, and it was #12Ricardo,Rodriguez did the goal.
+Now it is 1:2
+Russia wins with 2:1
+
+Game 4
+This game is playing in Arena da Amazonia
+Group stage:
+Garner vs Costa,Rica
+Garner
+#1       GK      Stephen,Adams
+#2       DF      Samuel,Inkoom
+#3       FW      Asamoah,Gyan,(c)
+#4       DF      Daniel,Opare
+#5       MF      Michael,Essien
+#6       MF      Afriyie,Acquah
+#7       MF      Christian,Atsu
+#8       MF      Emmanuel,Agyemang-Badu
+#9       FW      Kevin-Prince,Boateng
+#10      MF      Andre,Ayew
+#11      MF      Sulley,Muntari
+#12      GK      Adam,Kwarasey
+#13      FW      Jordan,Ayew
+#14      MF      Albert,Adomah
+#15      DF      Rashid,Sumaila
+#16      GK      Fatau,Dauda
+#17      MF      Mohammed,Rabiu
+#18      FW      Majeed,Waris
+#19      DF      Jonathan,Mensah
+#20      MF      Kwadwo,Asamoah
+#21      DF      John,Boye
+#22      MF      Wakaso,Mubarak
+#23      DF      Harrison,Afful
+Costa,Rica
+#1       GK      Keylor,Navas
+#2       DF      Johnny,Acosta
+#3       DF      Giancarlo,Gonzalez
+#4       DF      Michael,Umana
+#5       MF      Celso,Borges
+#6       DF      Oscar,Duarte
+#7       MF      Christian,Bola?os
+#8       DF      David,Myrie
+#9       FW      Joel,Campbell
+#10      FW      Bryan,Ruiz,(c)
+#11      MF      Michael,Barrantes
+#12      DF      Waylon,Francis
+#13      MF      Esteban,Granados
+#14      FW      Randall,Brenes
+#15      DF      Junior,Diaz
+#16      DF      Cristian,Gamboa
+#17      MF      Yeltsin,Tejeda
+#18      GK      Patrick,Pemberton
+#19      DF      Roy,Miller
+#20      MF      Diego,Calvo
+#21      FW      Marco,Urena
+#22      MF      Jose,Miguel,Cubero
+#23      GK      Daniel,Cambronero
+Playing...
+Costa,Ricadid a goal, and it was #8Joel,Campbell did the goal.
+Now it is 0:1
+Garnerdid a goal, and it was #6Christian,Atsu did the goal.
+Now it is 1:1
+Costa,Ricadid a goal, and it was #10Michael,Barrantes did the goal.
+Now it is 1:2
+Garnerdid a goal, and it was #20John,Boye did the goal.
+Now it is 2:2
+Costa,Ricadid a goal, and it was #10Michael,Barrantes did the goal.
+Now it is 2:3
+Costa,Rica wins with 3:2
+
+Final result for group A
+Team                     W   D   L   GF  GA  GD  Pts
+Brazil(hosts)            2   1   0   10  8   2   7   
+England                  1   2   0   6   2   4   5   
+Cameroon                 1   1   1   7   5   2   4   
+South,Korea              0   0   3   4   12  -8  0   
+
+Final result for group B
+Team                     W   D   L   GF  GA  GD  Pts
+Argentina                2   1   0   12  9   3   7   
+Holland                  2   0   1   6   5   1   6   
+Croatia                  1   0   2   5   6   -1  3   
+Mexico                   0   1   2   6   9   -3  1   
+
+Final result for group C
+Team                     W   D   L   GF  GA  GD  Pts
+Algeria                  2   0   1   10  7   3   6   
+Columbia                 2   0   1   11  9   2   6   
+America                  1   1   1   6   7   -1  4   
+Bosnia,and,Herzegovina   0   1   2   5   9   -4  1   
+
+Final result for group D
+Team                     W   D   L   GF  GA  GD  Pts
+Ecuador                  2   0   1   8   9   -1  6   
+Portugal                 1   1   1   6   6   0   4   
+Iran                     1   1   1   5   5   0   4   
+Belgium                  1   0   2   6   5   1   3   
+
+Final result for group E
+Team                     W   D   L   GF  GA  GD  Pts
+Honduras                 2   0   1   8   7   1   6   
+Italy                    1   1   1   9   9   0   4   
+Uruguay                  1   1   1   6   6   0   4   
+Nigeria                  1   0   2   8   9   -1  3   
+
+Final result for group F
+Team                     W   D   L   GF  GA  GD  Pts
+Chile                    2   1   0   4   2   2   7   
+Spain                    2   0   1   6   2   4   6   
+Greece                   0   2   1   5   6   -1  2   
+Australia                0   1   2   2   7   -5  1   
+
+Final result for group G
+Team                     W   D   L   GF  GA  GD  Pts
+Germany                  2   0   1   8   3   5   6   
+Japan                    2   0   1   8   6   2   6   
+Ivory,Coast              1   1   1   8   8   0   4   
+France                   0   1   2   4   11  -7  1   
+
+Final result for group H
+Team                     W   D   L   GF  GA  GD  Pts
+Switzerland              2   0   1   8   5   3   6   
+Russia                   2   0   1   9   8   1   6   
+Costa,Rica               1   0   2   8   10  -2  3   
+Garner                   1   0   2   7   9   -2  3   
+

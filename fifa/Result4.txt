@@ -1,0 +1,11 @@
+Final result for Finals4 
+Team                     W   D   L   GF  GA  GD  Pts
+Algeria                  1   0   0   4   2   2   3   
+England                  1   0   0   4   3   1   3   
+Switzerland              1   0   0   2   1   1   3   
+Russia                   1   0   0   1   0   1   3   
+Ecuador                  0   0   1   3   4   -1  0   
+Italy                    0   0   1   1   2   -1  0   
+Spain                    0   0   1   0   1   -1  0   
+Brazil(hosts)            0   0   1   2   4   -2  0   
+

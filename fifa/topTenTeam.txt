@@ -1,0 +1,13 @@
+Top ten teams: 
+    Team                     W   D   L   GF  GA  GD  Pts
+1   Russia                   6   0   1   21  14  7   18  
+2   Algeria                  5   0   2   21  13  8   15  
+3   Switzerland              5   0   2   18  12  6   15  
+4   England                  3   2   2   16  15  1   11  
+5   Brazil(hosts)            3   1   1   16  14  2   10  
+6   Spain                    3   0   2   7   3   4   9   
+7   Ecuador                  3   0   2   15  14  1   9   
+8   Italy                    2   1   2   14  11  3   7   
+9   Argentina                2   1   1   15  13  2   7   
+10  Chile                    2   1   1   4   6   -2  7   
+

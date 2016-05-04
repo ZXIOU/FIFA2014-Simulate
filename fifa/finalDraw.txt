@@ -1,0 +1,119 @@
+First stage:
+pot1
+  Brazil(hosts)
+  Spain
+  Germany
+  Argentina
+  Belgium
+  Uruguay
+  Switzerland
+  Columbia
+pot2
+  Chile
+  Ecuador
+  Ivory,Coast
+  Garner
+  Algeria
+  Nigeria
+  Cameroon
+pot3
+  Australia
+  Iran
+  Japan
+  South,Korea
+  Mexico
+  Honduras
+  Costa,Rica
+  America
+pot4
+  Bosnia,and,Herzegovina
+  Croatia
+  England
+  France
+  Greece
+  Holland
+  Italy
+  Portugal
+  Russia
+
+One European team was first randomly drawn from Pot 4 andplaced into Pot 2: Croatia
+
+After first draw:
+pot1
+  Brazil(hosts)
+  Spain
+  Germany
+  Argentina
+  Belgium
+  Uruguay
+  Switzerland
+  Columbia
+pot2
+  Chile
+  Ecuador
+  Ivory,Coast
+  Garner
+  Algeria
+  Nigeria
+  Cameroon
+  Croatia
+pot3
+  Australia
+  Iran
+  Japan
+  South,Korea
+  Mexico
+  Honduras
+  Costa,Rica
+  America
+pot4
+  Bosnia,and,Herzegovina
+  Russia
+  England
+  France
+  Greece
+  Holland
+  Italy
+  Portugal
+
+The Final Draw:
+group1
+  Brazil(hosts)
+  Cameroon
+  South,Korea
+  England
+group2
+  Argentina
+  Croatia
+  Mexico
+  Holland
+group3
+  Columbia
+  Algeria
+  America
+  Bosnia,and,Herzegovina
+group4
+  Belgium
+  Ecuador
+  Iran
+  Portugal
+group5
+  Uruguay
+  Nigeria
+  Honduras
+  Italy
+group6
+  Spain
+  Chile
+  Australia
+  Greece
+group7
+  Germany
+  Ivory,Coast
+  Japan
+  France
+group8
+  Switzerland
+  Garner
+  Costa,Rica
+  Russia
